@@ -1,0 +1,4 @@
+pipeline finished, starting follow-up
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --rigid-aug --tag rigid
+>> analyze.py
+FOLLOWUP DONE

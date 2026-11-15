@@ -1,0 +1,8 @@
+
+>> gradcam.py --models resnet50,mobilenetv3,efficientnetv2,convnext,deit,swin
+resnet50 {'cam_mass_on_fruit_mean': 0.5475912690162659, 'cam_mass_on_fruit_median': 0.5569182634353638, 'fruit_area_fraction_mean': 0.38105708360671997, 'n': 332, 'accuracy_fold0': 0.9578313253012049}
+mobilenetv3 {'cam_mass_on_fruit_mean': 0.5388885736465454, 'cam_mass_on_fruit_median': 0.5299264192581177, 'fruit_area_fraction_mean': 0.38105708360671997, 'n': 332, 'accuracy_fold0': 0.9698795180722891}
+efficientnetv2 {'cam_mass_on_fruit_mean': 0.44121816754341125, 'cam_mass_on_fruit_median': 0.43401744961738586, 'fruit_area_fraction_mean': 0.38105708360671997, 'n': 332, 'accuracy_fold0': 0.9939759036144579}
+convnext {'cam_mass_on_fruit_mean': 0.4741295576095581, 'cam_mass_on_fruit_median': 0.4277738928794861, 'fruit_area_fraction_mean': 0.38105708360671997, 'n': 332, 'accuracy_fold0': 0.9849397590361446}
+deit {'cam_mass_on_fruit_mean': 0.0, 'cam_mass_on_fruit_median': 0.0, 'fruit_area_fraction_mean': 0.38105708360671997, 'n': 332, 'accuracy_fold0': 0.9879518072289156}
+swin {'cam_mass_on_fruit_mean': 0.6125856637954712, 'cam_mass_on_fruit_median': 0.6037815809249878, 'fruit_area_fraction_mean': 0.38105708360671997, 'n': 332, 'accuracy_fold0': 0.9819277108433735}

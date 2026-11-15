@@ -1,0 +1,37 @@
+medina27 images 258 shared classes ['Ajwa', 'Galaxy', 'Medjool', 'Nabtat Ali', 'Shaishe', 'Sugaey'] counts [43, 43, 43, 0, 43, 0, 43, 0, 43]
+frame|standard|resnet50      acc 0.519 +- 0.028  balanced 0.519  ensemble 0.539  recalls {'Ajwa': 0.93, 'Gala': 0.0, 'Medj': 0.87, 'Nabt': 0.93, 'Shai': 0.32, 'Suga': 0.07}
+frame|standard|mobilenetv3   acc 0.305 +- 0.074  balanced 0.305  ensemble 0.430  recalls {'Ajwa': 0.62, 'Gala': 0.02, 'Medj': 0.63, 'Nabt': 0.33, 'Shai': 0.14, 'Suga': 0.09}
+frame|standard|efficientnetv2 acc 0.329 +- 0.061  balanced 0.329  ensemble 0.388  recalls {'Ajwa': 0.47, 'Gala': 0.03, 'Medj': 0.77, 'Nabt': 0.54, 'Shai': 0.04, 'Suga': 0.13}
+frame|standard|convnext      acc 0.584 +- 0.045  balanced 0.584  ensemble 0.620  recalls {'Ajwa': 0.86, 'Gala': 0.0, 'Medj': 0.97, 'Nabt': 0.66, 'Shai': 0.73, 'Suga': 0.28}
+frame|standard|deit          acc 0.553 +- 0.078  balanced 0.553  ensemble 0.612  recalls {'Ajwa': 0.86, 'Gala': 0.0, 'Medj': 0.99, 'Nabt': 0.56, 'Shai': 0.64, 'Suga': 0.27}
+fruit|standard|resnet50      acc 0.524 +- 0.037  balanced 0.524  ensemble 0.550  recalls {'Ajwa': 0.98, 'Gala': 0.0, 'Medj': 0.84, 'Nabt': 0.91, 'Shai': 0.36, 'Suga': 0.05}
+fruit|standard|mobilenetv3   acc 0.257 +- 0.053  balanced 0.257  ensemble 0.388  recalls {'Ajwa': 0.55, 'Gala': 0.0, 'Medj': 0.5, 'Nabt': 0.23, 'Shai': 0.18, 'Suga': 0.08}
+fruit|standard|efficientnetv2 acc 0.310 +- 0.072  balanced 0.310  ensemble 0.384  recalls {'Ajwa': 0.62, 'Gala': 0.03, 'Medj': 0.6, 'Nabt': 0.48, 'Shai': 0.06, 'Suga': 0.07}
+fruit|standard|convnext      acc 0.622 +- 0.058  balanced 0.622  ensemble 0.659  recalls {'Ajwa': 0.99, 'Gala': 0.05, 'Medj': 0.92, 'Nabt': 0.69, 'Shai': 0.79, 'Suga': 0.3}
+fruit|standard|deit          acc 0.567 +- 0.030  balanced 0.567  ensemble 0.601  recalls {'Ajwa': 0.99, 'Gala': 0.0, 'Medj': 0.92, 'Nabt': 0.52, 'Shai': 0.76, 'Suga': 0.21}
+plain|standard|resnet50      acc 0.478 +- 0.052  balanced 0.478  ensemble 0.531  recalls {'Ajwa': 1.0, 'Gala': 0.07, 'Medj': 0.55, 'Nabt': 0.65, 'Shai': 0.58, 'Suga': 0.02}
+plain|standard|mobilenetv3   acc 0.435 +- 0.028  balanced 0.435  ensemble 0.438  recalls {'Ajwa': 0.98, 'Gala': 0.07, 'Medj': 0.44, 'Nabt': 0.39, 'Shai': 0.56, 'Suga': 0.18}
+plain|standard|efficientnetv2 acc 0.359 +- 0.032  balanced 0.359  ensemble 0.376  recalls {'Ajwa': 0.99, 'Gala': 0.14, 'Medj': 0.36, 'Nabt': 0.4, 'Shai': 0.2, 'Suga': 0.07}
+plain|standard|convnext      acc 0.584 +- 0.052  balanced 0.584  ensemble 0.612  recalls {'Ajwa': 1.0, 'Gala': 0.09, 'Medj': 0.85, 'Nabt': 0.66, 'Shai': 0.77, 'Suga': 0.14}
+plain|standard|deit          acc 0.538 +- 0.029  balanced 0.538  ensemble 0.554  recalls {'Ajwa': 1.0, 'Gala': 0.03, 'Medj': 0.68, 'Nabt': 0.59, 'Shai': 0.84, 'Suga': 0.1}
+EXTERNAL DONE medina27
+medina27 images 258 shared classes ['Ajwa', 'Galaxy', 'Medjool', 'Nabtat Ali', 'Shaishe', 'Sugaey'] counts [43, 43, 43, 0, 43, 0, 43, 0, 43]
+frame|standard|resnet50      acc 0.508 +- 0.037  balanced 0.508  ensemble 0.545  recalls {'Ajwa': 0.87, 'Gala': 0.0, 'Medj': 0.86, 'Nabt': 0.94, 'Shai': 0.3, 'Suga': 0.07}
+frame|standard|mobilenetv3   acc 0.305 +- 0.074  balanced 0.305  ensemble 0.430  recalls {'Ajwa': 0.62, 'Gala': 0.02, 'Medj': 0.63, 'Nabt': 0.33, 'Shai': 0.14, 'Suga': 0.09}
+frame|standard|efficientnetv2 acc 0.329 +- 0.061  balanced 0.329  ensemble 0.388  recalls {'Ajwa': 0.47, 'Gala': 0.03, 'Medj': 0.77, 'Nabt': 0.54, 'Shai': 0.04, 'Suga': 0.13}
+frame|standard|convnext      acc 0.584 +- 0.045  balanced 0.584  ensemble 0.620  recalls {'Ajwa': 0.86, 'Gala': 0.0, 'Medj': 0.97, 'Nabt': 0.66, 'Shai': 0.73, 'Suga': 0.28}
+frame|standard|deit          acc 0.553 +- 0.078  balanced 0.553  ensemble 0.612  recalls {'Ajwa': 0.86, 'Gala': 0.0, 'Medj': 0.99, 'Nabt': 0.56, 'Shai': 0.64, 'Suga': 0.27}
+frame|standard|swin          acc 0.607 +- 0.030  balanced 0.607  ensemble 0.636  recalls {'Ajwa': 0.98, 'Gala': 0.0, 'Medj': 0.95, 'Nabt': 0.64, 'Shai': 0.87, 'Suga': 0.2}
+fruit|standard|resnet50      acc 0.524 +- 0.028  balanced 0.524  ensemble 0.558  recalls {'Ajwa': 0.98, 'Gala': 0.0, 'Medj': 0.78, 'Nabt': 0.92, 'Shai': 0.37, 'Suga': 0.09}
+fruit|standard|mobilenetv3   acc 0.257 +- 0.053  balanced 0.257  ensemble 0.388  recalls {'Ajwa': 0.55, 'Gala': 0.0, 'Medj': 0.5, 'Nabt': 0.23, 'Shai': 0.18, 'Suga': 0.08}
+fruit|standard|efficientnetv2 acc 0.310 +- 0.072  balanced 0.310  ensemble 0.384  recalls {'Ajwa': 0.62, 'Gala': 0.03, 'Medj': 0.6, 'Nabt': 0.48, 'Shai': 0.06, 'Suga': 0.07}
+fruit|standard|convnext      acc 0.622 +- 0.058  balanced 0.622  ensemble 0.659  recalls {'Ajwa': 0.99, 'Gala': 0.05, 'Medj': 0.92, 'Nabt': 0.69, 'Shai': 0.79, 'Suga': 0.3}
+fruit|standard|deit          acc 0.567 +- 0.030  balanced 0.567  ensemble 0.601  recalls {'Ajwa': 0.99, 'Gala': 0.0, 'Medj': 0.92, 'Nabt': 0.52, 'Shai': 0.76, 'Suga': 0.21}
+fruit|standard|swin          acc 0.606 +- 0.051  balanced 0.606  ensemble 0.628  recalls {'Ajwa': 1.0, 'Gala': 0.07, 'Medj': 0.9, 'Nabt': 0.65, 'Shai': 0.82, 'Suga': 0.2}
+plain|standard|resnet50      acc 0.474 +- 0.054  balanced 0.474  ensemble 0.510  recalls {'Ajwa': 1.0, 'Gala': 0.12, 'Medj': 0.49, 'Nabt': 0.64, 'Shai': 0.57, 'Suga': 0.03}
+plain|standard|mobilenetv3   acc 0.435 +- 0.028  balanced 0.435  ensemble 0.438  recalls {'Ajwa': 0.98, 'Gala': 0.07, 'Medj': 0.44, 'Nabt': 0.39, 'Shai': 0.56, 'Suga': 0.18}
+plain|standard|efficientnetv2 acc 0.359 +- 0.032  balanced 0.359  ensemble 0.376  recalls {'Ajwa': 0.99, 'Gala': 0.14, 'Medj': 0.36, 'Nabt': 0.4, 'Shai': 0.2, 'Suga': 0.07}
+plain|standard|convnext      acc 0.584 +- 0.052  balanced 0.584  ensemble 0.612  recalls {'Ajwa': 1.0, 'Gala': 0.09, 'Medj': 0.85, 'Nabt': 0.66, 'Shai': 0.77, 'Suga': 0.14}
+plain|standard|deit          acc 0.538 +- 0.029  balanced 0.538  ensemble 0.554  recalls {'Ajwa': 1.0, 'Gala': 0.03, 'Medj': 0.68, 'Nabt': 0.59, 'Shai': 0.84, 'Suga': 0.1}
+plain|standard|swin          acc 0.562 +- 0.037  balanced 0.562  ensemble 0.581  recalls {'Ajwa': 1.0, 'Gala': 0.05, 'Medj': 0.74, 'Nabt': 0.6, 'Shai': 0.91, 'Suga': 0.07}
+EXTERNAL DONE medina27

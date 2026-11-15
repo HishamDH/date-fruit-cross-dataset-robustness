@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File ".\code\baseline_classical.py", line 21, in <module>
+    HOG = cv2.HOGDescriptor((128, 128), (32, 32), (16, 16), (16, 16), 9)
+          ^^^^^^^^^^^^^^^^^
+AttributeError: module 'cv2' has no attribute 'HOGDescriptor'
+features (1658, 1873) 13s
+.\code\common.py:163: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:219.)
+  out[i] = torch.from_numpy(np.asarray(Image.open(io.BytesIO(buf.getvalue())))).permute(2, 0, 1).to(x) / 255
+fold 0  {'svc__C': 10, 'svc__gamma': 0.0001601708489054992}  test acc 0.9458  f1 0.9433  auc 0.9980  mean corrupted acc 0.4118  (138s)
+fold 1  {'svc__C': 10, 'svc__gamma': 0.0001601708489054992}  test acc 0.9639  f1 0.9610  auc 0.9980  mean corrupted acc 0.4130  (127s)
+fold 2  {'svc__C': 10, 'svc__gamma': 0.0001601708489054992}  test acc 0.9337  f1 0.9310  auc 0.9968  mean corrupted acc 0.4321  (170s)
+fold 3  {'svc__C': 10, 'svc__gamma': 0.0001601708489054992}  test acc 0.9305  f1 0.9321  auc 0.9980  mean corrupted acc 0.4184  (190s)
+fold 4  {'svc__C': 10, 'svc__gamma': 0.0001601708489054992}  test acc 0.9758  f1 0.9758  auc 0.9977  mean corrupted acc 0.4264  (191s)
+SUMMARY svm: test accuracy 0.9499 +/- 0.0195

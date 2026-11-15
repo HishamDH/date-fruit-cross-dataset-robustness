@@ -1,0 +1,51 @@
+SODA zip entries 2634
+       1    .ows
+       1  SodaDataset/خلاص Khalas  .db
+     121  SodaDataset/خلاص Khalas  .jpg
+      80  SodaDataset/خلاص Khalas  .png
+       1  SodaDataset/رزيز Raziz  .db
+     121  SodaDataset/رزيز Raziz  .jpg
+      80  SodaDataset/رزيز Raziz  .png
+       1  SodaDataset/سكري جالكسي Sukari Galaxy  .db
+     121  SodaDataset/سكري جالكسي Sukari Galaxy  .jpg
+      80  SodaDataset/سكري جالكسي Sukari Galaxy  .png
+       1  SodaDataset/سكري رطب Sukari Rutab  .db
+     121  SodaDataset/سكري رطب Sukari Rutab  .jpg
+      80  SodaDataset/سكري رطب Sukari Rutab  .png
+       1  SodaDataset/سكري مفتل Sukari Mofattal  .db
+     121  SodaDataset/سكري مفتل Sukari Mofattal  .jpg
+      80  SodaDataset/سكري مفتل Sukari Mofattal  .png
+       1  SodaDataset/شلبي Shalabi  .db
+     121  SodaDataset/شلبي Shalabi  .jpg
+      80  SodaDataset/شلبي Shalabi  .png
+       1  SodaDataset/شيشي Shaishi  .db
+     121  SodaDataset/شيشي Shaishi  .jpg
+      80  SodaDataset/شيشي Shaishi  .png
+       1  SodaDataset/صفاوي Safawi  .db
+     121  SodaDataset/صفاوي Safawi  .jpg
+      80  SodaDataset/صفاوي Safawi  .png
+       1  SodaDataset/صقعي Sagai  .db
+     121  SodaDataset/صقعي Sagai  .jpg
+      80  SodaDataset/صقعي Sagai  .png
+       1  SodaDataset/عجوة Ajwa  .db
+       1  SodaDataset/عجوة Ajwa  .ini
+     121  SodaDataset/عجوة Ajwa  .jpg
+      80  SodaDataset/عجوة Ajwa  .png
+       1  SodaDataset/عنبرة Anbara  .db
+     121  SodaDataset/عنبرة Anbara  .jpg
+      80  SodaDataset/عنبرة Anbara  .png
+       1  SodaDataset/مجدول Medjool  .db
+       1  SodaDataset/مجدول Medjool  .ini
+     121  SodaDataset/مجدول Medjool  .jpg
+      80  SodaDataset/مجدول Medjool  .png
+       1  SodaDataset/ونان Wanan  .db
+     121  SodaDataset/ونان Wanan  .jpg
+      80  SodaDataset/ونان Wanan  .png
+       5  TabularDataset  .csv
+
+Medina labels: ['Aeslea', 'Ajwa', 'Anbarah', 'Asaliah', 'Balah_Halwah', 'Barhi', 'Barni_Alais', 'Date_Halwah', 'East_Rothana', 'Galaxy_Sukkari', 'Khalas', 'Labanh', 'Mabroom', 'Maktoomi', 'Medjool', 'Meftal_Sukkari', 'Nabt_Ali', 'Rabheah', 'Reshedeh', 'Sabbkah', 'Safawi', 'Saggae', 'Sakhal', 'Shalaby', 'Sheshee', 'Sukkary_Ruttab', 'Sullaj']
+Ajwa ids: ['s7.o7.1', 's7.o7.10', 's7.o7.2', 's7.o7.3', 's7.o7.4', 's7.o7.5', 's7.o7.6', 's7.o7.7', 's7.o7.8', 's7.o7.9', 's7.orr7.1', 's7.orr7.2', 's7.orr7.3', 's7.orr7.4', 's7.r', 's7.r.1', 's7.r.2', 's7.r.3', 's7.s1.1', 's7.s1.2', 's7.s1.3p', 's7.s1.4', 's7.s1.5f', 's7.s2.1', 's7.s2.2', 's7.s2.3p', 's7.s2.4', 's7.s2.5f', 's7.s3.0.1', 's7.s3.1f', 's7.s3.2', 's7.s3.3b', 's7.s3.4', 's7.s4.10', 's7.s4.5.2', 's7.s4.7', 's7.s4.8b', 's7.s4.9f', 's7.s5.11.3', 's7.s5.12', 's7.s5.13b', 's7.s5.14f', 's7.s5.15']
+Traceback (most recent call last):
+  File ".\code\inspect_soda_zip.py", line 31, in <module>
+    rr = sorted((r for r in recs if r['label'] == lab), key=lambda r: [int(t) if t.isdigit() else t for t in r['id'].replace('.', ' ').split()])
+TypeError: '<' not supported between instances of 'str' and 'int'

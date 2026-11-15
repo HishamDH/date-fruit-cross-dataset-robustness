@@ -1,0 +1,3202 @@
+[
+ {
+  "a": "Meneifi/Meneifi Date (10).jpg",
+  "b": "Meneifi/Meneifi Date (13).jpg",
+  "sim": 0.9730806946754456,
+  "ia": 501,
+  "ib": 534,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (85).jpg",
+  "b": "Galaxy/Galaxy Date (86).jpg",
+  "sim": 0.9699962735176086,
+  "ia": 349,
+  "ib": 350,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (234).jpg",
+  "b": "Sokari/Sokari Date (238).jpg",
+  "sim": 0.9698211550712585,
+  "ia": 1376,
+  "ib": 1380,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (89).jpg",
+  "b": "Galaxy/Galaxy Date (90).jpg",
+  "sim": 0.9652670621871948,
+  "ia": 353,
+  "ib": 355,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (5).jpg",
+  "b": "Shaishe/Shaishe Date (6).jpg",
+  "sim": 0.9619128704071045,
+  "ia": 1171,
+  "ib": 1182,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (167).jpg",
+  "b": "Sugaey/Sugaey Date (168).jpg",
+  "sim": 0.9604671001434326,
+  "ia": 1565,
+  "ib": 1566,
+  "same_fold": true
+ },
+ {
+  "a": "Rutab/Rutab Date (90).jpg",
+  "b": "Rutab/Rutab Date (91).jpg",
+  "sim": 0.9571263790130615,
+  "ia": 1045,
+  "ib": 1046,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (188).jpg",
+  "b": "Galaxy/Galaxy Date (189).jpg",
+  "sim": 0.9569798707962036,
+  "ia": 273,
+  "ib": 274,
+  "same_fold": false
+ },
+ {
+  "a": "Ajwa/Ajwa Date (57).jpg",
+  "b": "Ajwa/Ajwa Date (60).jpg",
+  "sim": 0.9562092423439026,
+  "ia": 128,
+  "ib": 132,
+  "same_fold": false
+ },
+ {
+  "a": "Ajwa/Ajwa Date (3).jpg",
+  "b": "Ajwa/Ajwa Date (6).jpg",
+  "sim": 0.9495053887367249,
+  "ia": 98,
+  "ib": 131,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (36).jpg",
+  "b": "Medjool/Medjool Date (37).jpg",
+  "sim": 0.9465377330780029,
+  "ia": 430,
+  "ib": 431,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (94).jpg",
+  "b": "Medjool/Medjool Date (95).jpg",
+  "sim": 0.945298433303833,
+  "ia": 494,
+  "ib": 495,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (98).jpg",
+  "b": "Sokari/Sokari Date (99).jpg",
+  "sim": 0.9367060661315918,
+  "ia": 1488,
+  "ib": 1489,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (109).jpg",
+  "b": "Rutab/Rutab Date (110).jpg",
+  "sim": 0.9357404708862305,
+  "ia": 920,
+  "ib": 922,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.9249990582466125,
+  "ia": 836,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "sim": 0.9230886101722717,
+  "ia": 747,
+  "ib": 823,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (10).jpg",
+  "b": "Sokari/Sokari Date (11).jpg",
+  "sim": 0.9206061959266663,
+  "ia": 1227,
+  "ib": 1238,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (116).jpg",
+  "b": "Meneifi/Meneifi Date (117).jpg",
+  "sim": 0.9204622507095337,
+  "ia": 519,
+  "ib": 520,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (12).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.9201399087905884,
+  "ia": 755,
+  "ib": 834,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "sim": 0.9176590442657471,
+  "ia": 765,
+  "ib": 812,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.9168121218681335,
+  "ia": 765,
+  "ib": 834,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "sim": 0.916654109954834,
+  "ia": 765,
+  "ib": 785,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (31).jpg",
+  "b": "Galaxy/Galaxy Date (33).jpg",
+  "sim": 0.9166433215141296,
+  "ia": 290,
+  "ib": 292,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "sim": 0.9149009585380554,
+  "ia": 746,
+  "ib": 747,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (173).jpg",
+  "b": "Meneifi/Meneifi Date (197).jpg",
+  "sim": 0.913367509841919,
+  "ia": 582,
+  "ib": 608,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (110).jpg",
+  "b": "Rutab/Rutab Date (69).jpg",
+  "sim": 0.9129163026809692,
+  "ia": 922,
+  "ib": 1021,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.9128737449645996,
+  "ia": 812,
+  "ib": 828,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.9127928614616394,
+  "ia": 785,
+  "ib": 834,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "sim": 0.9124565720558167,
+  "ia": 785,
+  "ib": 812,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (37).jpg",
+  "b": "Meneifi/Meneifi Date (47).jpg",
+  "sim": 0.9104337692260742,
+  "ia": 663,
+  "ib": 674,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (18).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (19).jpg",
+  "sim": 0.9102025032043457,
+  "ia": 819,
+  "ib": 820,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.9100391864776611,
+  "ia": 733,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "sim": 0.9096870422363281,
+  "ia": 785,
+  "ib": 823,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (138).jpg",
+  "b": "Sugaey/Sugaey Date (140).jpg",
+  "sim": 0.9087623953819275,
+  "ia": 1533,
+  "ib": 1536,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "sim": 0.9085594415664673,
+  "ia": 823,
+  "ib": 826,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.9084690809249878,
+  "ia": 835,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.9082198143005371,
+  "ia": 747,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (176).jpg",
+  "b": "Meneifi/Meneifi Date (98).jpg",
+  "sim": 0.9081646800041199,
+  "ia": 585,
+  "ib": 730,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (73).jpg",
+  "b": "Sokari/Sokari Date (76).jpg",
+  "sim": 0.9078338146209717,
+  "ia": 1461,
+  "ib": 1464,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (144).jpg",
+  "b": "Sokari/Sokari Date (83).jpg",
+  "sim": 0.907313346862793,
+  "ia": 1276,
+  "ib": 1472,
+  "same_fold": true
+ },
+ {
+  "a": "Rutab/Rutab Date (23).jpg",
+  "b": "Rutab/Rutab Date (24).jpg",
+  "sim": 0.907213568687439,
+  "ia": 971,
+  "ib": 972,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (142).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "sim": 0.9069989323616028,
+  "ia": 780,
+  "ib": 843,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.9059739112854004,
+  "ia": 747,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (64).jpg",
+  "b": "Medjool/Medjool Date (66).jpg",
+  "sim": 0.9059306383132935,
+  "ia": 461,
+  "ib": 463,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (134).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "sim": 0.9057487845420837,
+  "ia": 771,
+  "ib": 812,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (101).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.9052518606185913,
+  "ia": 735,
+  "ib": 828,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (140).jpg",
+  "b": "Sugaey/Sugaey Date (49).jpg",
+  "sim": 0.9051869511604309,
+  "ia": 1536,
+  "ib": 1602,
+  "same_fold": true
+ },
+ {
+  "a": "Rutab/Rutab Date (10).jpg",
+  "b": "Rutab/Rutab Date (14).jpg",
+  "sim": 0.9043645262718201,
+  "ia": 910,
+  "ib": 954,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (197).jpg",
+  "b": "Meneifi/Meneifi Date (224).jpg",
+  "sim": 0.9040945768356323,
+  "ia": 608,
+  "ib": 639,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (172).jpg",
+  "b": "Sokari/Sokari Date (173).jpg",
+  "sim": 0.9040794372558594,
+  "ia": 1307,
+  "ib": 1308,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.9036933183670044,
+  "ia": 746,
+  "ib": 908,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (173).jpg",
+  "b": "Meneifi/Meneifi Date (224).jpg",
+  "sim": 0.9036439657211304,
+  "ia": 582,
+  "ib": 639,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (11).jpg",
+  "sim": 0.9035373330116272,
+  "ia": 733,
+  "ib": 744,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.9032292366027832,
+  "ia": 747,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (196).jpg",
+  "b": "Meneifi/Meneifi Date (197).jpg",
+  "sim": 0.9031761884689331,
+  "ia": 607,
+  "ib": 608,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (13).jpg",
+  "b": "Rutab/Rutab Date (15).jpg",
+  "sim": 0.9030131101608276,
+  "ia": 943,
+  "ib": 962,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (127).jpg",
+  "b": "Medjool/Medjool Date (128).jpg",
+  "sim": 0.9029179215431213,
+  "ia": 396,
+  "ib": 397,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (38).jpg",
+  "b": "Rutab/Rutab Date (74).jpg",
+  "sim": 0.9028180837631226,
+  "ia": 987,
+  "ib": 1027,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.9027836322784424,
+  "ia": 747,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (121).jpg",
+  "b": "Rutab/Rutab Date (93).jpg",
+  "sim": 0.9027727246284485,
+  "ia": 934,
+  "ib": 1048,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (14).jpg",
+  "b": "Rutab/Rutab Date (54).jpg",
+  "sim": 0.9024434089660645,
+  "ia": 954,
+  "ib": 1005,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (159).jpg",
+  "b": "Sugaey/Sugaey Date (49).jpg",
+  "sim": 0.9023991823196411,
+  "ia": 1556,
+  "ib": 1602,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (93).jpg",
+  "b": "Shaishe/Shaishe Date (94).jpg",
+  "sim": 0.9023770093917847,
+  "ia": 1219,
+  "ib": 1220,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (14).jpg",
+  "sim": 0.9022736549377441,
+  "ia": 748,
+  "ib": 777,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.9020696878433228,
+  "ia": 828,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (90).jpg",
+  "b": "Galaxy/Galaxy Date (91).jpg",
+  "sim": 0.9018787741661072,
+  "ia": 355,
+  "ib": 356,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "sim": 0.9016278386116028,
+  "ia": 748,
+  "ib": 843,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (141).jpg",
+  "b": "Sugaey/Sugaey Date (52).jpg",
+  "sim": 0.9015464782714844,
+  "ia": 1537,
+  "ib": 1606,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (109).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.9014900326728821,
+  "ia": 743,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.9012888669967651,
+  "ia": 746,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.9011201858520508,
+  "ia": 746,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (1).jpg",
+  "b": "Rutab/Rutab Date (30).jpg",
+  "sim": 0.901012659072876,
+  "ia": 909,
+  "ib": 979,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (35).jpg",
+  "b": "Meneifi/Meneifi Date (38).jpg",
+  "sim": 0.9008448719978333,
+  "ia": 661,
+  "ib": 664,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (140).jpg",
+  "b": "Sugaey/Sugaey Date (50).jpg",
+  "sim": 0.9006927013397217,
+  "ia": 1536,
+  "ib": 1604,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (77).jpg",
+  "sim": 0.9005330204963684,
+  "ia": 834,
+  "ib": 884,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (81).jpg",
+  "b": "Medjool/Medjool Date (82).jpg",
+  "sim": 0.9002692699432373,
+  "ia": 480,
+  "ib": 481,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (90).jpg",
+  "b": "Sokari/Sokari Date (97).jpg",
+  "sim": 0.9002419710159302,
+  "ia": 1480,
+  "ib": 1487,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (159).jpg",
+  "b": "Sugaey/Sugaey Date (50).jpg",
+  "sim": 0.9001787900924683,
+  "ia": 1556,
+  "ib": 1604,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (35).jpg",
+  "b": "Meneifi/Meneifi Date (36).jpg",
+  "sim": 0.899721622467041,
+  "ia": 661,
+  "ib": 662,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (109).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8993141651153564,
+  "ia": 743,
+  "ib": 886,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8992151021957397,
+  "ia": 826,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (21).jpg",
+  "b": "Meneifi/Meneifi Date (22).jpg",
+  "sim": 0.8991433382034302,
+  "ia": 623,
+  "ib": 634,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (12).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "sim": 0.8988595008850098,
+  "ia": 755,
+  "ib": 785,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8988009691238403,
+  "ia": 824,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8987171649932861,
+  "ia": 765,
+  "ib": 835,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.8985375165939331,
+  "ia": 765,
+  "ib": 836,
+  "same_fold": true
+ },
+ {
+  "a": "Galaxy/Galaxy Date (94).jpg",
+  "b": "Galaxy/Galaxy Date (95).jpg",
+  "sim": 0.8984981775283813,
+  "ia": 359,
+  "ib": 360,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (111).jpg",
+  "b": "Sokari/Sokari Date (98).jpg",
+  "sim": 0.8980711698532104,
+  "ia": 1240,
+  "ib": 1488,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (121).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (25).jpg",
+  "sim": 0.8980526328086853,
+  "ia": 757,
+  "ib": 827,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (124).jpg",
+  "b": "Sokari/Sokari Date (83).jpg",
+  "sim": 0.8979257941246033,
+  "ia": 1254,
+  "ib": 1472,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (39).jpg",
+  "b": "Rutab/Rutab Date (74).jpg",
+  "sim": 0.897653341293335,
+  "ia": 988,
+  "ib": 1027,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (122).jpg",
+  "b": "Shaishe/Shaishe Date (123).jpg",
+  "sim": 0.8974571228027344,
+  "ia": 1081,
+  "ib": 1082,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (109).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "sim": 0.8974552154541016,
+  "ia": 743,
+  "ib": 747,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8972017765045166,
+  "ia": 747,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (164).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (44).jpg",
+  "sim": 0.896818995475769,
+  "ia": 804,
+  "ib": 848,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (115).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (170).jpg",
+  "sim": 0.8966677188873291,
+  "ia": 750,
+  "ib": 811,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (126).jpg",
+  "b": "Sugaey/Sugaey Date (91).jpg",
+  "sim": 0.8965704441070557,
+  "ia": 1520,
+  "ib": 1649,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (14).jpg",
+  "b": "Rutab/Rutab Date (55).jpg",
+  "sim": 0.8962981700897217,
+  "ia": 954,
+  "ib": 1006,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (138).jpg",
+  "b": "Sugaey/Sugaey Date (24).jpg",
+  "sim": 0.8962634205818176,
+  "ia": 1533,
+  "ib": 1575,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (127).jpg",
+  "b": "Galaxy/Galaxy Date (128).jpg",
+  "sim": 0.8962558507919312,
+  "ia": 206,
+  "ib": 207,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (164).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "sim": 0.8961824178695679,
+  "ia": 804,
+  "ib": 843,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "sim": 0.8958878517150879,
+  "ia": 785,
+  "ib": 876,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (11).jpg",
+  "b": "Sugaey/Sugaey Date (44).jpg",
+  "sim": 0.8958660364151001,
+  "ia": 1502,
+  "ib": 1597,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8957884907722473,
+  "ia": 823,
+  "ib": 872,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (47).jpg",
+  "b": "Meneifi/Meneifi Date (63).jpg",
+  "sim": 0.8957310914993286,
+  "ia": 674,
+  "ib": 692,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (128).jpg",
+  "b": "Rutab/Rutab Date (74).jpg",
+  "sim": 0.8954493999481201,
+  "ia": 941,
+  "ib": 1027,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (49).jpg",
+  "b": "Sugaey/Sugaey Date (50).jpg",
+  "sim": 0.8954118490219116,
+  "ia": 1602,
+  "ib": 1604,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "sim": 0.8953301906585693,
+  "ia": 812,
+  "ib": 823,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (110).jpg",
+  "b": "Rutab/Rutab Date (59).jpg",
+  "sim": 0.8951125144958496,
+  "ia": 922,
+  "ib": 1010,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (197).jpg",
+  "b": "Meneifi/Meneifi Date (36).jpg",
+  "sim": 0.8949648141860962,
+  "ia": 608,
+  "ib": 662,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8948521018028259,
+  "ia": 747,
+  "ib": 835,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (22).jpg",
+  "b": "Rutab/Rutab Date (24).jpg",
+  "sim": 0.8942737579345703,
+  "ia": 970,
+  "ib": 972,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (110).jpg",
+  "b": "Sokari/Sokari Date (217).jpg",
+  "sim": 0.8941619992256165,
+  "ia": 1239,
+  "ib": 1357,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.8941578269004822,
+  "ia": 785,
+  "ib": 828,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (187).jpg",
+  "b": "Meneifi/Meneifi Date (226).jpg",
+  "sim": 0.8939809203147888,
+  "ia": 597,
+  "ib": 641,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (175).jpg",
+  "sim": 0.8939069509506226,
+  "ia": 748,
+  "ib": 816,
+  "same_fold": true
+ },
+ {
+  "a": "Galaxy/Galaxy Date (17).jpg",
+  "b": "Galaxy/Galaxy Date (18).jpg",
+  "sim": 0.8938171863555908,
+  "ia": 253,
+  "ib": 264,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.8937472105026245,
+  "ia": 823,
+  "ib": 834,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "sim": 0.8936430215835571,
+  "ia": 823,
+  "ib": 824,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8936399221420288,
+  "ia": 872,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (124).jpg",
+  "b": "Sokari/Sokari Date (144).jpg",
+  "sim": 0.8935253620147705,
+  "ia": 1254,
+  "ib": 1276,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (184).jpg",
+  "b": "Meneifi/Meneifi Date (219).jpg",
+  "sim": 0.8934112787246704,
+  "ia": 594,
+  "ib": 633,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.8933955430984497,
+  "ia": 824,
+  "ib": 834,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8933888673782349,
+  "ia": 823,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (44).jpg",
+  "b": "Sugaey/Sugaey Date (71).jpg",
+  "sim": 0.8932567834854126,
+  "ia": 1597,
+  "ib": 1627,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (156).jpg",
+  "b": "Sugaey/Sugaey Date (67).jpg",
+  "sim": 0.8932441473007202,
+  "ia": 1553,
+  "ib": 1622,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (121).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (27).jpg",
+  "sim": 0.8931577801704407,
+  "ia": 757,
+  "ib": 829,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (44).jpg",
+  "b": "Meneifi/Meneifi Date (45).jpg",
+  "sim": 0.8928780555725098,
+  "ia": 671,
+  "ib": 672,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (14).jpg",
+  "b": "Medjool/Medjool Date (78).jpg",
+  "sim": 0.892875611782074,
+  "ia": 406,
+  "ib": 476,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (48).jpg",
+  "sim": 0.892845869064331,
+  "ia": 826,
+  "ib": 852,
+  "same_fold": true
+ },
+ {
+  "a": "Sokari/Sokari Date (159).jpg",
+  "b": "Sokari/Sokari Date (69).jpg",
+  "sim": 0.8926663398742676,
+  "ia": 1292,
+  "ib": 1456,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (11).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (170).jpg",
+  "sim": 0.8926217555999756,
+  "ia": 744,
+  "ib": 811,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (144).jpg",
+  "sim": 0.8923786282539368,
+  "ia": 733,
+  "ib": 782,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (138).jpg",
+  "b": "Sugaey/Sugaey Date (50).jpg",
+  "sim": 0.8923040628433228,
+  "ia": 1533,
+  "ib": 1604,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (43).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (95).jpg",
+  "sim": 0.8921736478805542,
+  "ia": 847,
+  "ib": 904,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (140).jpg",
+  "b": "Sugaey/Sugaey Date (159).jpg",
+  "sim": 0.8919485807418823,
+  "ia": 1536,
+  "ib": 1556,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (109).jpg",
+  "b": "Rutab/Rutab Date (69).jpg",
+  "sim": 0.8917647004127502,
+  "ia": 920,
+  "ib": 1021,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (86).jpg",
+  "sim": 0.891470193862915,
+  "ia": 812,
+  "ib": 894,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (11).jpg",
+  "b": "Sugaey/Sugaey Date (24).jpg",
+  "sim": 0.8913788795471191,
+  "ia": 1502,
+  "ib": 1575,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.8913332223892212,
+  "ia": 823,
+  "ib": 828,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (166).jpg",
+  "b": "Shaishe/Shaishe Date (70).jpg",
+  "sim": 0.8913097381591797,
+  "ia": 1129,
+  "ib": 1194,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (11).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (115).jpg",
+  "sim": 0.8912662267684937,
+  "ia": 744,
+  "ib": 750,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (121).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.891143798828125,
+  "ia": 757,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (44).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8911131024360657,
+  "ia": 848,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (132).jpg",
+  "b": "Medjool/Medjool Date (38).jpg",
+  "sim": 0.8909498453140259,
+  "ia": 402,
+  "ib": 432,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.8908686637878418,
+  "ia": 828,
+  "ib": 834,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.8907915353775024,
+  "ia": 834,
+  "ib": 836,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (170).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (36).jpg",
+  "sim": 0.8907869458198547,
+  "ia": 811,
+  "ib": 839,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.8907713294029236,
+  "ia": 765,
+  "ib": 828,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (74).jpg",
+  "b": "Sokari/Sokari Date (76).jpg",
+  "sim": 0.8907702565193176,
+  "ia": 1462,
+  "ib": 1464,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (136).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8907696008682251,
+  "ia": 773,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (56).jpg",
+  "b": "Rutab/Rutab Date (58).jpg",
+  "sim": 0.8907548189163208,
+  "ia": 1007,
+  "ib": 1009,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (123).jpg",
+  "b": "Shaishe/Shaishe Date (63).jpg",
+  "sim": 0.8907456994056702,
+  "ia": 1082,
+  "ib": 1186,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (151).jpg",
+  "b": "Sugaey/Sugaey Date (91).jpg",
+  "sim": 0.8905526399612427,
+  "ia": 1548,
+  "ib": 1649,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (36).jpg",
+  "b": "Meneifi/Meneifi Date (39).jpg",
+  "sim": 0.8904882669448853,
+  "ia": 662,
+  "ib": 665,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (28).jpg",
+  "sim": 0.8903867602348328,
+  "ia": 747,
+  "ib": 830,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (118).jpg",
+  "b": "Meneifi/Meneifi Date (189).jpg",
+  "sim": 0.8902363181114197,
+  "ia": 521,
+  "ib": 599,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (10).jpg",
+  "b": "Rutab/Rutab Date (54).jpg",
+  "sim": 0.8901667594909668,
+  "ia": 910,
+  "ib": 1005,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8900094032287598,
+  "ia": 826,
+  "ib": 886,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "sim": 0.8898950815200806,
+  "ia": 785,
+  "ib": 826,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (3).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8898791074752808,
+  "ia": 832,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8897240161895752,
+  "ia": 765,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8894518613815308,
+  "ia": 746,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (27).jpg",
+  "sim": 0.8892958164215088,
+  "ia": 747,
+  "ib": 829,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8892678022384644,
+  "ia": 748,
+  "ib": 835,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (125).jpg",
+  "b": "Rutab/Rutab Date (24).jpg",
+  "sim": 0.8891869783401489,
+  "ia": 938,
+  "ib": 972,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (238).jpg",
+  "b": "Sokari/Sokari Date (97).jpg",
+  "sim": 0.8890429735183716,
+  "ia": 1380,
+  "ib": 1487,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (127).jpg",
+  "b": "Sugaey/Sugaey Date (91).jpg",
+  "sim": 0.8888203501701355,
+  "ia": 1521,
+  "ib": 1649,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (38).jpg",
+  "b": "Rutab/Rutab Date (39).jpg",
+  "sim": 0.8886978626251221,
+  "ia": 987,
+  "ib": 988,
+  "same_fold": true
+ },
+ {
+  "a": "Sokari/Sokari Date (245).jpg",
+  "b": "Sokari/Sokari Date (246).jpg",
+  "sim": 0.8884081244468689,
+  "ia": 1388,
+  "ib": 1389,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.8883031606674194,
+  "ia": 747,
+  "ib": 828,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (47).jpg",
+  "b": "Meneifi/Meneifi Date (66).jpg",
+  "sim": 0.8882867097854614,
+  "ia": 674,
+  "ib": 695,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (173).jpg",
+  "b": "Meneifi/Meneifi Date (36).jpg",
+  "sim": 0.8882768154144287,
+  "ia": 582,
+  "ib": 662,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (65).jpg",
+  "b": "Sugaey/Sugaey Date (8).jpg",
+  "sim": 0.8882116079330444,
+  "ia": 1620,
+  "ib": 1636,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (142).jpg",
+  "sim": 0.8881722092628479,
+  "ia": 748,
+  "ib": 780,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (133).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (135).jpg",
+  "sim": 0.8881679773330688,
+  "ia": 770,
+  "ib": 772,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (96).jpg",
+  "sim": 0.8881464600563049,
+  "ia": 843,
+  "ib": 905,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (116).jpg",
+  "b": "Sugaey/Sugaey Date (76).jpg",
+  "sim": 0.8880589604377747,
+  "ia": 1509,
+  "ib": 1632,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (16).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8879750967025757,
+  "ia": 799,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (47).jpg",
+  "b": "Rutab/Rutab Date (49).jpg",
+  "sim": 0.887923002243042,
+  "ia": 997,
+  "ib": 999,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "sim": 0.8878127932548523,
+  "ia": 747,
+  "ib": 785,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8877303004264832,
+  "ia": 823,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (190).jpg",
+  "b": "Meneifi/Meneifi Date (200).jpg",
+  "sim": 0.8876837491989136,
+  "ia": 601,
+  "ib": 613,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (86).jpg",
+  "sim": 0.887652575969696,
+  "ia": 828,
+  "ib": 894,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.887579619884491,
+  "ia": 872,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (171).jpg",
+  "b": "Galaxy/Galaxy Date (36).jpg",
+  "sim": 0.8875221014022827,
+  "ia": 255,
+  "ib": 295,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.8874456882476807,
+  "ia": 826,
+  "ib": 828,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (39).jpg",
+  "b": "Meneifi/Meneifi Date (47).jpg",
+  "sim": 0.8873963356018066,
+  "ia": 665,
+  "ib": 674,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (25).jpg",
+  "b": "Sokari/Sokari Date (98).jpg",
+  "sim": 0.8873924016952515,
+  "ia": 1393,
+  "ib": 1488,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "sim": 0.8872019052505493,
+  "ia": 746,
+  "ib": 824,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (9).jpg",
+  "sim": 0.887079119682312,
+  "ia": 876,
+  "ib": 898,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (70).jpg",
+  "b": "Rutab/Rutab Date (74).jpg",
+  "sim": 0.8868906497955322,
+  "ia": 1023,
+  "ib": 1027,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (109).jpg",
+  "b": "Meneifi/Meneifi Date (58).jpg",
+  "sim": 0.8868826627731323,
+  "ia": 511,
+  "ib": 686,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.8868311643600464,
+  "ia": 812,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (42).jpg",
+  "b": "Sugaey/Sugaey Date (91).jpg",
+  "sim": 0.8868035078048706,
+  "ia": 1595,
+  "ib": 1649,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (158).jpg",
+  "b": "Sugaey/Sugaey Date (44).jpg",
+  "sim": 0.8867820501327515,
+  "ia": 1555,
+  "ib": 1597,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (140).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (16).jpg",
+  "sim": 0.8867772817611694,
+  "ia": 778,
+  "ib": 799,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (201).jpg",
+  "b": "Sokari/Sokari Date (202).jpg",
+  "sim": 0.8865956664085388,
+  "ia": 1340,
+  "ib": 1341,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (144).jpg",
+  "b": "Sokari/Sokari Date (72).jpg",
+  "sim": 0.8865060806274414,
+  "ia": 1276,
+  "ib": 1460,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (93).jpg",
+  "b": "Rutab/Rutab Date (95).jpg",
+  "sim": 0.8863086700439453,
+  "ia": 1048,
+  "ib": 1050,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (128).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "sim": 0.8862097263336182,
+  "ia": 764,
+  "ib": 765,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8861840963363647,
+  "ia": 834,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (24).jpg",
+  "b": "Rutab/Rutab Date (55).jpg",
+  "sim": 0.886115312576294,
+  "ia": 972,
+  "ib": 1006,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (127).jpg",
+  "b": "Rutab/Rutab Date (78).jpg",
+  "sim": 0.8860196471214294,
+  "ia": 940,
+  "ib": 1031,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (67).jpg",
+  "sim": 0.8859714269638062,
+  "ia": 733,
+  "ib": 873,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.885897159576416,
+  "ia": 812,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (214).jpg",
+  "b": "Meneifi/Meneifi Date (226).jpg",
+  "sim": 0.8858945369720459,
+  "ia": 628,
+  "ib": 641,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "sim": 0.8858489990234375,
+  "ia": 765,
+  "ib": 876,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (163).jpg",
+  "b": "Meneifi/Meneifi Date (188).jpg",
+  "sim": 0.8858206272125244,
+  "ia": 571,
+  "ib": 598,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (160).jpg",
+  "b": "Sugaey/Sugaey Date (20).jpg",
+  "sim": 0.8857740163803101,
+  "ia": 1558,
+  "ib": 1571,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (109).jpg",
+  "sim": 0.8857690095901489,
+  "ia": 733,
+  "ib": 743,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "sim": 0.8857199549674988,
+  "ia": 824,
+  "ib": 828,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (25).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (27).jpg",
+  "sim": 0.8856969475746155,
+  "ia": 827,
+  "ib": 829,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (11).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8856512308120728,
+  "ia": 744,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (36).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8855708837509155,
+  "ia": 839,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (11).jpg",
+  "b": "Sugaey/Sugaey Date (138).jpg",
+  "sim": 0.885553240776062,
+  "ia": 1502,
+  "ib": 1533,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (152).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (20).jpg",
+  "sim": 0.88554847240448,
+  "ia": 791,
+  "ib": 822,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (27).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8855205774307251,
+  "ia": 829,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (101).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "sim": 0.8854690790176392,
+  "ia": 735,
+  "ib": 765,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (128).jpg",
+  "b": "Medjool/Medjool Date (53).jpg",
+  "sim": 0.8853793740272522,
+  "ia": 397,
+  "ib": 449,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.8852672576904297,
+  "ia": 824,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (96).jpg",
+  "sim": 0.8849421739578247,
+  "ia": 748,
+  "ib": 905,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8847993612289429,
+  "ia": 887,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (112).jpg",
+  "b": "Medjool/Medjool Date (128).jpg",
+  "sim": 0.884796142578125,
+  "ia": 380,
+  "ib": 397,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (110).jpg",
+  "b": "Rutab/Rutab Date (70).jpg",
+  "sim": 0.8847808837890625,
+  "ia": 922,
+  "ib": 1023,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (8).jpg",
+  "b": "Sokari/Sokari Date (9).jpg",
+  "sim": 0.8847383260726929,
+  "ia": 1468,
+  "ib": 1479,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (161).jpg",
+  "b": "Sokari/Sokari Date (69).jpg",
+  "sim": 0.8846753835678101,
+  "ia": 1295,
+  "ib": 1456,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8846461772918701,
+  "ia": 835,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (29).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (31).jpg",
+  "sim": 0.8846297264099121,
+  "ia": 831,
+  "ib": 834,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (144).jpg",
+  "b": "Meneifi/Meneifi Date (36).jpg",
+  "sim": 0.8845759034156799,
+  "ia": 550,
+  "ib": 662,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (59).jpg",
+  "sim": 0.8844554424285889,
+  "ia": 828,
+  "ib": 864,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (44).jpg",
+  "sim": 0.8843759298324585,
+  "ia": 747,
+  "ib": 848,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (39).jpg",
+  "b": "Meneifi/Meneifi Date (66).jpg",
+  "sim": 0.8843353390693665,
+  "ia": 665,
+  "ib": 695,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (149).jpg",
+  "b": "Meneifi/Meneifi Date (36).jpg",
+  "sim": 0.8842676877975464,
+  "ia": 555,
+  "ib": 662,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (16).jpg",
+  "sim": 0.8840993046760559,
+  "ia": 747,
+  "ib": 799,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (3).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8840929865837097,
+  "ia": 832,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8840475678443909,
+  "ia": 785,
+  "ib": 835,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (138).jpg",
+  "b": "Sugaey/Sugaey Date (159).jpg",
+  "sim": 0.8840216398239136,
+  "ia": 1533,
+  "ib": 1556,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (25).jpg",
+  "b": "Shaishe/Shaishe Date (30).jpg",
+  "sim": 0.8839497566223145,
+  "ia": 1144,
+  "ib": 1150,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (36).jpg",
+  "b": "Meneifi/Meneifi Date (42).jpg",
+  "sim": 0.8837082982063293,
+  "ia": 662,
+  "ib": 669,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "sim": 0.8836612105369568,
+  "ia": 835,
+  "ib": 876,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (164).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8836279511451721,
+  "ia": 804,
+  "ib": 908,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (132).jpg",
+  "b": "Meneifi/Meneifi Date (227).jpg",
+  "sim": 0.883529782295227,
+  "ia": 537,
+  "ib": 642,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (164).jpg",
+  "sim": 0.8834761381149292,
+  "ia": 748,
+  "ib": 804,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (109).jpg",
+  "b": "Meneifi/Meneifi Date (198).jpg",
+  "sim": 0.8834556341171265,
+  "ia": 511,
+  "ib": 609,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.883324146270752,
+  "ia": 872,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (161).jpg",
+  "b": "Meneifi/Meneifi Date (66).jpg",
+  "sim": 0.8833220601081848,
+  "ia": 569,
+  "ib": 695,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (54).jpg",
+  "b": "Rutab/Rutab Date (99).jpg",
+  "sim": 0.8832322359085083,
+  "ia": 1005,
+  "ib": 1054,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8832047581672668,
+  "ia": 835,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (208).jpg",
+  "b": "Sokari/Sokari Date (217).jpg",
+  "sim": 0.8831334710121155,
+  "ia": 1347,
+  "ib": 1357,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (39).jpg",
+  "b": "Meneifi/Meneifi Date (48).jpg",
+  "sim": 0.8830404281616211,
+  "ia": 665,
+  "ib": 675,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (28).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8828524351119995,
+  "ia": 830,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (151).jpg",
+  "b": "Sokari/Sokari Date (49).jpg",
+  "sim": 0.882768988609314,
+  "ia": 1284,
+  "ib": 1434,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "sim": 0.8827542662620544,
+  "ia": 747,
+  "ib": 812,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8827083110809326,
+  "ia": 843,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (26).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.8827023506164551,
+  "ia": 828,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (59).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (78).jpg",
+  "sim": 0.8825979232788086,
+  "ia": 864,
+  "ib": 885,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (192).jpg",
+  "b": "Sokari/Sokari Date (83).jpg",
+  "sim": 0.8825805187225342,
+  "ia": 1329,
+  "ib": 1472,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (163).jpg",
+  "b": "Meneifi/Meneifi Date (35).jpg",
+  "sim": 0.8825603723526001,
+  "ia": 571,
+  "ib": 661,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (214).jpg",
+  "b": "Meneifi/Meneifi Date (38).jpg",
+  "sim": 0.8825430870056152,
+  "ia": 628,
+  "ib": 664,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8823770880699158,
+  "ia": 824,
+  "ib": 872,
+  "same_fold": true
+ },
+ {
+  "a": "Rutab/Rutab Date (10).jpg",
+  "b": "Rutab/Rutab Date (28).jpg",
+  "sim": 0.8823513984680176,
+  "ia": 910,
+  "ib": 976,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (226).jpg",
+  "b": "Meneifi/Meneifi Date (36).jpg",
+  "sim": 0.882253885269165,
+  "ia": 641,
+  "ib": 662,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (154).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (73).jpg",
+  "sim": 0.8822338581085205,
+  "ia": 793,
+  "ib": 880,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (148).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (9).jpg",
+  "sim": 0.8821942210197449,
+  "ia": 786,
+  "ib": 898,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (214).jpg",
+  "b": "Meneifi/Meneifi Date (47).jpg",
+  "sim": 0.8821470737457275,
+  "ia": 628,
+  "ib": 674,
+  "same_fold": false
+ },
+ {
+  "a": "Shaishe/Shaishe Date (24).jpg",
+  "b": "Shaishe/Shaishe Date (47).jpg",
+  "sim": 0.8821467161178589,
+  "ia": 1143,
+  "ib": 1168,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (124).jpg",
+  "b": "Sokari/Sokari Date (220).jpg",
+  "sim": 0.8821104764938354,
+  "ia": 1254,
+  "ib": 1361,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (172).jpg",
+  "b": "Meneifi/Meneifi Date (197).jpg",
+  "sim": 0.882091760635376,
+  "ia": 581,
+  "ib": 608,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (24).jpg",
+  "b": "Rutab/Rutab Date (39).jpg",
+  "sim": 0.88206946849823,
+  "ia": 972,
+  "ib": 988,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (22).jpg",
+  "b": "Rutab/Rutab Date (59).jpg",
+  "sim": 0.8820405602455139,
+  "ia": 970,
+  "ib": 1010,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8819713592529297,
+  "ia": 836,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (172).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8819388151168823,
+  "ia": 813,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (111).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (121).jpg",
+  "sim": 0.8815884590148926,
+  "ia": 746,
+  "ib": 757,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8814935684204102,
+  "ia": 733,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (167).jpg",
+  "b": "Sokari/Sokari Date (99).jpg",
+  "sim": 0.8814824223518372,
+  "ia": 1301,
+  "ib": 1489,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (108).jpg",
+  "b": "Meneifi/Meneifi Date (47).jpg",
+  "sim": 0.8814714550971985,
+  "ia": 510,
+  "ib": 674,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (166).jpg",
+  "b": "Sugaey/Sugaey Date (24).jpg",
+  "sim": 0.88144850730896,
+  "ia": 1564,
+  "ib": 1575,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (63).jpg",
+  "b": "Meneifi/Meneifi Date (66).jpg",
+  "sim": 0.8813241720199585,
+  "ia": 692,
+  "ib": 695,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (13).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (25).jpg",
+  "sim": 0.8812461495399475,
+  "ia": 766,
+  "ib": 827,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (226).jpg",
+  "b": "Meneifi/Meneifi Date (37).jpg",
+  "sim": 0.8812448382377625,
+  "ia": 641,
+  "ib": 663,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (100).jpg",
+  "b": "Meneifi/Meneifi Date (98).jpg",
+  "sim": 0.88118976354599,
+  "ia": 502,
+  "ib": 730,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (47).jpg",
+  "b": "Meneifi/Meneifi Date (48).jpg",
+  "sim": 0.8811890482902527,
+  "ia": 674,
+  "ib": 675,
+  "same_fold": true
+ },
+ {
+  "a": "Medjool/Medjool Date (127).jpg",
+  "b": "Medjool/Medjool Date (96).jpg",
+  "sim": 0.8811205625534058,
+  "ia": 396,
+  "ib": 496,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (14).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (28).jpg",
+  "sim": 0.8811096549034119,
+  "ia": 777,
+  "ib": 830,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (23).jpg",
+  "b": "Rutab/Rutab Date (55).jpg",
+  "sim": 0.8810669779777527,
+  "ia": 971,
+  "ib": 1006,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (136).jpg",
+  "b": "Sugaey/Sugaey Date (159).jpg",
+  "sim": 0.8810392618179321,
+  "ia": 1531,
+  "ib": 1556,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (24).jpg",
+  "b": "Sugaey/Sugaey Date (50).jpg",
+  "sim": 0.8810182213783264,
+  "ia": 1575,
+  "ib": 1604,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8809599876403809,
+  "ia": 748,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (34).jpg",
+  "b": "Sokari/Sokari Date (53).jpg",
+  "sim": 0.8808664679527283,
+  "ia": 1418,
+  "ib": 1439,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (44).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8808534741401672,
+  "ia": 848,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (36).jpg",
+  "b": "Meneifi/Meneifi Date (38).jpg",
+  "sim": 0.8808428049087524,
+  "ia": 662,
+  "ib": 664,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (94).jpg",
+  "sim": 0.8808246850967407,
+  "ia": 748,
+  "ib": 903,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (161).jpg",
+  "b": "Meneifi/Meneifi Date (59).jpg",
+  "sim": 0.8808162212371826,
+  "ia": 569,
+  "ib": 687,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (112).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "sim": 0.8808125257492065,
+  "ia": 747,
+  "ib": 824,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (60).jpg",
+  "b": "Sokari/Sokari Date (61).jpg",
+  "sim": 0.8807612657546997,
+  "ia": 1447,
+  "ib": 1448,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (18).jpg",
+  "b": "Galaxy/Galaxy Date (20).jpg",
+  "sim": 0.8807507753372192,
+  "ia": 264,
+  "ib": 278,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8807209730148315,
+  "ia": 785,
+  "ib": 872,
+  "same_fold": true
+ },
+ {
+  "a": "Medjool/Medjool Date (21).jpg",
+  "b": "Medjool/Medjool Date (36).jpg",
+  "sim": 0.8806682825088501,
+  "ia": 414,
+  "ib": 430,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (5).jpg",
+  "b": "Rutab/Rutab Date (66).jpg",
+  "sim": 0.8806663751602173,
+  "ia": 1000,
+  "ib": 1018,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (1).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "sim": 0.8806203603744507,
+  "ia": 732,
+  "ib": 876,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (71).jpg",
+  "b": "Sugaey/Sugaey Date (72).jpg",
+  "sim": 0.880387008190155,
+  "ia": 1627,
+  "ib": 1628,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (170).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8803509473800659,
+  "ia": 811,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (1).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "sim": 0.8803315162658691,
+  "ia": 732,
+  "ib": 748,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (20).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "sim": 0.8802558183670044,
+  "ia": 822,
+  "ib": 823,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (138).jpg",
+  "b": "Sugaey/Sugaey Date (153).jpg",
+  "sim": 0.8802413940429688,
+  "ia": 1533,
+  "ib": 1550,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "sim": 0.8801900744438171,
+  "ia": 748,
+  "ib": 785,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (40).jpg",
+  "sim": 0.880058765411377,
+  "ia": 785,
+  "ib": 844,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (171).jpg",
+  "b": "Galaxy/Galaxy Date (186).jpg",
+  "sim": 0.8799476027488708,
+  "ia": 255,
+  "ib": 271,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (13).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (24).jpg",
+  "sim": 0.8798319697380066,
+  "ia": 766,
+  "ib": 826,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (25).jpg",
+  "b": "Sokari/Sokari Date (99).jpg",
+  "sim": 0.879764199256897,
+  "ia": 1393,
+  "ib": 1489,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (144).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (66).jpg",
+  "sim": 0.8797593712806702,
+  "ia": 782,
+  "ib": 872,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (113).jpg",
+  "b": "Sokari/Sokari Date (114).jpg",
+  "sim": 0.8797552585601807,
+  "ia": 1242,
+  "ib": 1243,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (140).jpg",
+  "b": "Sugaey/Sugaey Date (166).jpg",
+  "sim": 0.87971031665802,
+  "ia": 1536,
+  "ib": 1564,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8797091245651245,
+  "ia": 823,
+  "ib": 835,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (11).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (65).jpg",
+  "sim": 0.8797005414962769,
+  "ia": 744,
+  "ib": 871,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (36).jpg",
+  "b": "Meneifi/Meneifi Date (37).jpg",
+  "sim": 0.879690408706665,
+  "ia": 662,
+  "ib": 663,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (86).jpg",
+  "sim": 0.8795477747917175,
+  "ia": 823,
+  "ib": 894,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (18).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.879540205001831,
+  "ia": 819,
+  "ib": 835,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (85).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (86).jpg",
+  "sim": 0.8795394897460938,
+  "ia": 893,
+  "ib": 894,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (134).jpg",
+  "sim": 0.8794257640838623,
+  "ia": 765,
+  "ib": 771,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (142).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (94).jpg",
+  "sim": 0.8793251514434814,
+  "ia": 780,
+  "ib": 903,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (54).jpg",
+  "b": "Rutab/Rutab Date (55).jpg",
+  "sim": 0.8792171478271484,
+  "ia": 1005,
+  "ib": 1006,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (20).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "sim": 0.8791865706443787,
+  "ia": 822,
+  "ib": 843,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (18).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (89).jpg",
+  "sim": 0.879155158996582,
+  "ia": 819,
+  "ib": 897,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "sim": 0.8791220188140869,
+  "ia": 823,
+  "ib": 876,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (39).jpg",
+  "b": "Rutab/Rutab Date (70).jpg",
+  "sim": 0.8790285587310791,
+  "ia": 988,
+  "ib": 1023,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (17).jpg",
+  "b": "Galaxy/Galaxy Date (20).jpg",
+  "sim": 0.8790062665939331,
+  "ia": 253,
+  "ib": 278,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (14).jpg",
+  "b": "Rutab/Rutab Date (99).jpg",
+  "sim": 0.8789297342300415,
+  "ia": 954,
+  "ib": 1054,
+  "same_fold": true
+ },
+ {
+  "a": "Medjool/Medjool Date (27).jpg",
+  "b": "Medjool/Medjool Date (70).jpg",
+  "sim": 0.8788837194442749,
+  "ia": 420,
+  "ib": 468,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (110).jpg",
+  "b": "Rutab/Rutab Date (57).jpg",
+  "sim": 0.8787491321563721,
+  "ia": 922,
+  "ib": 1008,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (22).jpg",
+  "sim": 0.8787387013435364,
+  "ia": 812,
+  "ib": 824,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (244).jpg",
+  "b": "Sokari/Sokari Date (85).jpg",
+  "sim": 0.8787189722061157,
+  "ia": 1387,
+  "ib": 1474,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (77).jpg",
+  "sim": 0.8786958456039429,
+  "ia": 765,
+  "ib": 884,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (46).jpg",
+  "b": "Galaxy/Galaxy Date (47).jpg",
+  "sim": 0.8786331415176392,
+  "ia": 306,
+  "ib": 307,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (187).jpg",
+  "b": "Meneifi/Meneifi Date (66).jpg",
+  "sim": 0.8785780668258667,
+  "ia": 597,
+  "ib": 695,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (148).jpg",
+  "b": "Meneifi/Meneifi Date (74).jpg",
+  "sim": 0.878515362739563,
+  "ia": 554,
+  "ib": 704,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (115).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8784714937210083,
+  "ia": 750,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (133).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (79).jpg",
+  "sim": 0.8783908486366272,
+  "ia": 770,
+  "ib": 886,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (38).jpg",
+  "b": "Rutab/Rutab Date (70).jpg",
+  "sim": 0.8783241510391235,
+  "ia": 987,
+  "ib": 1023,
+  "same_fold": false
+ },
+ {
+  "a": "Ajwa/Ajwa Date (67).jpg",
+  "b": "Ajwa/Ajwa Date (69).jpg",
+  "sim": 0.8781967759132385,
+  "ia": 139,
+  "ib": 141,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (170).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8780388832092285,
+  "ia": 811,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (24).jpg",
+  "b": "Sokari/Sokari Date (25).jpg",
+  "sim": 0.878029465675354,
+  "ia": 1382,
+  "ib": 1393,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (141).jpg",
+  "b": "Sugaey/Sugaey Date (86).jpg",
+  "sim": 0.8780065774917603,
+  "ia": 1537,
+  "ib": 1643,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (128).jpg",
+  "b": "Rutab/Rutab Date (39).jpg",
+  "sim": 0.8779834508895874,
+  "ia": 941,
+  "ib": 988,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.87798011302948,
+  "ia": 836,
+  "ib": 887,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (138).jpg",
+  "b": "Sugaey/Sugaey Date (49).jpg",
+  "sim": 0.8779712915420532,
+  "ia": 1533,
+  "ib": 1602,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (145).jpg",
+  "b": "Sugaey/Sugaey Date (67).jpg",
+  "sim": 0.8779135942459106,
+  "ia": 1541,
+  "ib": 1622,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (12).jpg",
+  "b": "Sugaey/Sugaey Date (141).jpg",
+  "sim": 0.8778963685035706,
+  "ia": 1513,
+  "ib": 1537,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (28).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "sim": 0.8778500556945801,
+  "ia": 830,
+  "ib": 843,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (128).jpg",
+  "b": "Rutab/Rutab Date (69).jpg",
+  "sim": 0.8778488636016846,
+  "ia": 941,
+  "ib": 1021,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (39).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (85).jpg",
+  "sim": 0.8777401447296143,
+  "ia": 842,
+  "ib": 893,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (138).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (40).jpg",
+  "sim": 0.8776788711547852,
+  "ia": 775,
+  "ib": 844,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (29).jpg",
+  "b": "Rutab/Rutab Date (59).jpg",
+  "sim": 0.8776489496231079,
+  "ia": 977,
+  "ib": 1010,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (76).jpg",
+  "b": "Sugaey/Sugaey Date (91).jpg",
+  "sim": 0.8776344656944275,
+  "ia": 1632,
+  "ib": 1649,
+  "same_fold": true
+ },
+ {
+  "a": "Sokari/Sokari Date (209).jpg",
+  "b": "Sokari/Sokari Date (83).jpg",
+  "sim": 0.8775683641433716,
+  "ia": 1348,
+  "ib": 1472,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (128).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (134).jpg",
+  "sim": 0.8775331974029541,
+  "ia": 764,
+  "ib": 771,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8775185346603394,
+  "ia": 785,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (4).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (94).jpg",
+  "sim": 0.877482533454895,
+  "ia": 843,
+  "ib": 903,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (67).jpg",
+  "b": "Meneifi/Meneifi Date (68).jpg",
+  "sim": 0.8774664998054504,
+  "ia": 696,
+  "ib": 697,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (187).jpg",
+  "b": "Meneifi/Meneifi Date (39).jpg",
+  "sim": 0.8774552345275879,
+  "ia": 597,
+  "ib": 665,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (110).jpg",
+  "b": "Rutab/Rutab Date (74).jpg",
+  "sim": 0.8774088621139526,
+  "ia": 922,
+  "ib": 1027,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (154).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (175).jpg",
+  "sim": 0.877358078956604,
+  "ia": 793,
+  "ib": 816,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (172).jpg",
+  "b": "Meneifi/Meneifi Date (173).jpg",
+  "sim": 0.8773494362831116,
+  "ia": 581,
+  "ib": 582,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (168).jpg",
+  "b": "Meneifi/Meneifi Date (197).jpg",
+  "sim": 0.877338707447052,
+  "ia": 576,
+  "ib": 608,
+  "same_fold": true
+ },
+ {
+  "a": "Meneifi/Meneifi Date (39).jpg",
+  "b": "Meneifi/Meneifi Date (71).jpg",
+  "sim": 0.8773312568664551,
+  "ia": 665,
+  "ib": 701,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (164).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8772882223129272,
+  "ia": 804,
+  "ib": 835,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (44).jpg",
+  "sim": 0.8772301077842712,
+  "ia": 748,
+  "ib": 848,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (47).jpg",
+  "b": "Rutab/Rutab Date (48).jpg",
+  "sim": 0.8771463632583618,
+  "ia": 997,
+  "ib": 998,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (113).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8771413564682007,
+  "ia": 748,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (110).jpg",
+  "b": "Sokari/Sokari Date (76).jpg",
+  "sim": 0.8771318197250366,
+  "ia": 1239,
+  "ib": 1464,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (134).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8770845532417297,
+  "ia": 771,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (148).jpg",
+  "b": "Sugaey/Sugaey Date (44).jpg",
+  "sim": 0.8770657181739807,
+  "ia": 1544,
+  "ib": 1597,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (163).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (172).jpg",
+  "sim": 0.8770525455474854,
+  "ia": 803,
+  "ib": 813,
+  "same_fold": true
+ },
+ {
+  "a": "Rutab/Rutab Date (10).jpg",
+  "b": "Rutab/Rutab Date (22).jpg",
+  "sim": 0.8770506381988525,
+  "ia": 910,
+  "ib": 970,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (172).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (67).jpg",
+  "sim": 0.8769347667694092,
+  "ia": 813,
+  "ib": 873,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (101).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (33).jpg",
+  "sim": 0.8769194483757019,
+  "ia": 735,
+  "ib": 836,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (147).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (86).jpg",
+  "sim": 0.8768542408943176,
+  "ia": 785,
+  "ib": 894,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (71).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (8).jpg",
+  "sim": 0.8766695857048035,
+  "ia": 878,
+  "ib": 887,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (173).jpg",
+  "b": "Meneifi/Meneifi Date (66).jpg",
+  "sim": 0.8765621185302734,
+  "ia": 582,
+  "ib": 695,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (134).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (86).jpg",
+  "sim": 0.8764848709106445,
+  "ia": 771,
+  "ib": 894,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (213).jpg",
+  "b": "Meneifi/Meneifi Date (223).jpg",
+  "sim": 0.8764120936393738,
+  "ia": 627,
+  "ib": 638,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (226).jpg",
+  "b": "Meneifi/Meneifi Date (38).jpg",
+  "sim": 0.8763788938522339,
+  "ia": 641,
+  "ib": 664,
+  "same_fold": true
+ },
+ {
+  "a": "Medjool/Medjool Date (127).jpg",
+  "b": "Medjool/Medjool Date (53).jpg",
+  "sim": 0.8763562440872192,
+  "ia": 396,
+  "ib": 449,
+  "same_fold": false
+ },
+ {
+  "a": "Sokari/Sokari Date (159).jpg",
+  "b": "Sokari/Sokari Date (160).jpg",
+  "sim": 0.8763512969017029,
+  "ia": 1292,
+  "ib": 1294,
+  "same_fold": true
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (10).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (21).jpg",
+  "sim": 0.8763459324836731,
+  "ia": 733,
+  "ib": 823,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (142).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (164).jpg",
+  "sim": 0.8763173818588257,
+  "ia": 780,
+  "ib": 804,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (11).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (99).jpg",
+  "sim": 0.8762803673744202,
+  "ia": 744,
+  "ib": 908,
+  "same_fold": false
+ },
+ {
+  "a": "Medjool/Medjool Date (110).jpg",
+  "b": "Medjool/Medjool Date (99).jpg",
+  "sim": 0.8762611150741577,
+  "ia": 378,
+  "ib": 499,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (129).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (148).jpg",
+  "sim": 0.8762534260749817,
+  "ia": 765,
+  "ib": 786,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (7).jpg",
+  "sim": 0.8762509822845459,
+  "ia": 812,
+  "ib": 876,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (148).jpg",
+  "b": "Sugaey/Sugaey Date (71).jpg",
+  "sim": 0.8762503862380981,
+  "ia": 1544,
+  "ib": 1627,
+  "same_fold": false
+ },
+ {
+  "a": "Nabtat Ali/Nabtat Ali Date (171).jpg",
+  "b": "Nabtat Ali/Nabtat Ali Date (32).jpg",
+  "sim": 0.8762031197547913,
+  "ia": 812,
+  "ib": 835,
+  "same_fold": false
+ },
+ {
+  "a": "Meneifi/Meneifi Date (183).jpg",
+  "b": "Meneifi/Meneifi Date (191).jpg",
+  "sim": 0.8761895298957825,
+  "ia": 593,
+  "ib": 602,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (151).jpg",
+  "b": "Sugaey/Sugaey Date (94).jpg",
+  "sim": 0.8761296272277832,
+  "ia": 1548,
+  "ib": 1652,
+  "same_fold": false
+ },
+ {
+  "a": "Rutab/Rutab Date (10).jpg",
+  "b": "Rutab/Rutab Date (99).jpg",
+  "sim": 0.8761202096939087,
+  "ia": 910,
+  "ib": 1054,
+  "same_fold": false
+ },
+ {
+  "a": "Galaxy/Galaxy Date (137).jpg",
+  "b": "Galaxy/Galaxy Date (23).jpg",
+  "sim": 0.8760836124420166,
+  "ia": 217,
+  "ib": 281,
+  "same_fold": false
+ },
+ {
+  "a": "Sugaey/Sugaey Date (141).jpg",
+  "b": "Sugaey/Sugaey Date (87).jpg",
+  "sim": 0.8760214447975159,
+  "ia": 1537,
+  "ib": 1644,
+  "same_fold": true
+ },
+ {
+  "a": "Sokari/Sokari Date (176).jpg",
+  "b": "Sokari/Sokari Date (205).jpg",
+  "sim": 0.8760049343109131,
+  "ia": 1311,
+  "ib": 1344,
+  "same_fold": true
+ },
+ {
+  "a": "Sugaey/Sugaey Date (24).jpg",
+  "b": "Sugaey/Sugaey Date (59).jpg",
+  "sim": 0.8759847283363342,
+  "ia": 1575,
+  "ib": 1613,
+  "same_fold": false
+ }
+]

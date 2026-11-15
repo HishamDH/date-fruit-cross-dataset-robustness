@@ -1,0 +1,65 @@
+
+>> analyze.py
+.\code\common.py:168: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:219.)
+  out[i] = torch.from_numpy(np.asarray(Image.open(io.BytesIO(buf.getvalue())))).permute(2, 0, 1).to(x) / 255
+convnext               acc 98.31 +/- 1.20  f1 98.36  auc 0.9997  pooled 1630/1658  corrupted 86.89
+convnext_lr1e-4        acc 99.10 +/- 0.00  f1 99.10  auc 0.9996  pooled 329/332  corrupted 88.74
+convnext_lr3e-4        acc 98.49 +/- 0.00  f1 98.57  auc 0.9998  pooled 327/332  corrupted 86.08
+convnext_lr3e-5        acc 97.89 +/- 0.00  f1 97.85  auc 0.9991  pooled 325/332  corrupted 88.52
+convnext_noaug         acc 99.28 +/- 0.17  f1 99.28  auc 1.0000  pooled 1646/1658  corrupted 91.02
+convnext_scratch       acc 88.48 +/- 2.11  f1 88.56  auc 0.9908  pooled 1467/1658  corrupted 65.51
+deit                   acc 97.83 +/- 0.89  f1 97.95  auc 0.9986  pooled 1622/1658  corrupted 89.09
+deit_lr1e-4            acc 99.40 +/- 0.00  f1 99.46  auc 0.9992  pooled 330/332  corrupted 91.89
+deit_lr3e-4            acc 98.80 +/- 0.00  f1 98.89  auc 0.9965  pooled 328/332  corrupted 88.74
+deit_lr3e-5            acc 97.89 +/- 0.00  f1 98.02  auc 0.9992  pooled 325/332  corrupted 90.14
+efficientnetv2         acc 98.79 +/- 0.82  f1 98.78  auc 0.9999  pooled 1638/1658  corrupted 78.05
+efficientnetv2_lr1e-4  acc 96.99 +/- 0.00  f1 97.04  auc 0.9993  pooled 322/332  corrupted 68.74
+efficientnetv2_lr3e-4  acc 99.40 +/- 0.00  f1 99.42  auc 0.9999  pooled 330/332  corrupted 78.61
+efficientnetv2_lr3e-5  acc 93.07 +/- 0.00  f1 92.99  auc 0.9971  pooled 309/332  corrupted 60.08
+mobilenetv3            acc 97.47 +/- 0.81  f1 97.51  auc 0.9997  pooled 1616/1658  corrupted 60.96
+mobilenetv3_lr1e-4     acc 95.18 +/- 0.00  f1 95.34  auc 0.9980  pooled 316/332  corrupted 57.39
+mobilenetv3_lr3e-4     acc 96.99 +/- 0.00  f1 97.27  auc 0.9997  pooled 322/332  corrupted 60.09
+mobilenetv3_lr3e-5     acc 90.06 +/- 0.00  f1 90.12  auc 0.9919  pooled 299/332  corrupted 52.51
+resnet50               acc 96.92 +/- 1.01  f1 97.01  auc 0.9999  pooled 1607/1658  corrupted 74.62
+resnet50_lr1e-4        acc 95.78 +/- 0.00  f1 95.92  auc 0.9997  pooled 318/332  corrupted 71.76
+resnet50_lr3e-4        acc 96.39 +/- 0.00  f1 96.43  auc 0.9998  pooled 320/332  corrupted 72.60
+resnet50_lr3e-5        acc 97.89 +/- 0.00  f1 97.73  auc 0.9996  pooled 325/332  corrupted 70.33
+svm                    acc 94.99 +/- 1.95  f1 94.86  auc 0.9977  pooled 1575/1658  corrupted 42.03
+swin                   acc 98.67 +/- 0.34  f1 98.74  auc 0.9998  pooled 1636/1658  corrupted 86.71
+swin_lr1e-4            acc 98.19 +/- 0.00  f1 98.28  auc 0.9997  pooled 326/332  corrupted 86.86
+swin_lr3e-4            acc 97.29 +/- 0.00  f1 97.21  auc 0.9989  pooled 323/332  corrupted 83.97
+swin_lr3e-5            acc 97.29 +/- 0.00  f1 97.30  auc 0.9992  pooled 323/332  corrupted 87.10
+best on clean images: efficientnetv2
+
+>> analyze.py
+.\code\common.py:168: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:219.)
+  out[i] = torch.from_numpy(np.asarray(Image.open(io.BytesIO(buf.getvalue())))).permute(2, 0, 1).to(x) / 255
+convnext               acc 98.31 +/- 1.20  f1 98.36  auc 0.9997  pooled 1630/1658  corrupted 86.89
+convnext_lr1e-4        acc 99.10 +/- 0.00  f1 99.10  auc 0.9996  pooled 329/332  corrupted 88.74
+convnext_lr3e-4        acc 98.49 +/- 0.00  f1 98.57  auc 0.9998  pooled 327/332  corrupted 86.08
+convnext_lr3e-5        acc 97.89 +/- 0.00  f1 97.85  auc 0.9991  pooled 325/332  corrupted 88.52
+convnext_noaug         acc 99.28 +/- 0.17  f1 99.28  auc 1.0000  pooled 1646/1658  corrupted 91.02
+convnext_rigid         acc 98.79 +/- 0.71  f1 98.80  auc 0.9999  pooled 1638/1658  corrupted 90.18
+convnext_scratch       acc 88.48 +/- 2.11  f1 88.56  auc 0.9908  pooled 1467/1658  corrupted 65.51
+deit                   acc 97.83 +/- 0.89  f1 97.95  auc 0.9986  pooled 1622/1658  corrupted 89.09
+deit_lr1e-4            acc 99.40 +/- 0.00  f1 99.46  auc 0.9992  pooled 330/332  corrupted 91.89
+deit_lr3e-4            acc 98.80 +/- 0.00  f1 98.89  auc 0.9965  pooled 328/332  corrupted 88.74
+deit_lr3e-5            acc 97.89 +/- 0.00  f1 98.02  auc 0.9992  pooled 325/332  corrupted 90.14
+efficientnetv2         acc 98.79 +/- 0.82  f1 98.78  auc 0.9999  pooled 1638/1658  corrupted 78.05
+efficientnetv2_lr1e-4  acc 96.99 +/- 0.00  f1 97.04  auc 0.9993  pooled 322/332  corrupted 68.74
+efficientnetv2_lr3e-4  acc 99.40 +/- 0.00  f1 99.42  auc 0.9999  pooled 330/332  corrupted 78.61
+efficientnetv2_lr3e-5  acc 93.07 +/- 0.00  f1 92.99  auc 0.9971  pooled 309/332  corrupted 60.08
+mobilenetv3            acc 97.47 +/- 0.81  f1 97.51  auc 0.9997  pooled 1616/1658  corrupted 60.96
+mobilenetv3_lr1e-4     acc 95.18 +/- 0.00  f1 95.34  auc 0.9980  pooled 316/332  corrupted 57.39
+mobilenetv3_lr3e-4     acc 96.99 +/- 0.00  f1 97.27  auc 0.9997  pooled 322/332  corrupted 60.09
+mobilenetv3_lr3e-5     acc 90.06 +/- 0.00  f1 90.12  auc 0.9919  pooled 299/332  corrupted 52.51
+resnet50               acc 96.92 +/- 1.01  f1 97.01  auc 0.9999  pooled 1607/1658  corrupted 74.62
+resnet50_lr1e-4        acc 95.78 +/- 0.00  f1 95.92  auc 0.9997  pooled 318/332  corrupted 71.76
+resnet50_lr3e-4        acc 96.39 +/- 0.00  f1 96.43  auc 0.9998  pooled 320/332  corrupted 72.60
+resnet50_lr3e-5        acc 97.89 +/- 0.00  f1 97.73  auc 0.9996  pooled 325/332  corrupted 70.33
+svm                    acc 94.99 +/- 1.95  f1 94.86  auc 0.9977  pooled 1575/1658  corrupted 42.03
+swin                   acc 98.67 +/- 0.34  f1 98.74  auc 0.9998  pooled 1636/1658  corrupted 86.71
+swin_lr1e-4            acc 98.19 +/- 0.00  f1 98.28  auc 0.9997  pooled 326/332  corrupted 86.86
+swin_lr3e-4            acc 97.29 +/- 0.00  f1 97.21  auc 0.9989  pooled 323/332  corrupted 83.97
+swin_lr3e-5            acc 97.29 +/- 0.00  f1 97.30  auc 0.9992  pooled 323/332  corrupted 87.10
+best on clean images: efficientnetv2

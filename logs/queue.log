@@ -1,0 +1,52 @@
+first seed runs finished
+>> train_cv.py --model resnet50 --lr 1e-4 --epochs 12 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model mobilenetv3 --lr 3e-4 --epochs 12 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model efficientnetv2 --lr 3e-4 --epochs 12 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model deit --lr 3e-4 --epochs 12 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model swin --lr 1e-4 --epochs 12 {'DATES_DATASET': 'soda'}
+>> baseline_classical.py {'DATES_DATASET': 'soda'}
+SODA DATASET DONE
+>> train_multisource.py --model resnet50 --extra none --target medina27,soda --seed 0 
+>> train_multisource.py --model mobilenetv3 --extra none --target medina27,soda --seed 0 
+>> train_multisource.py --model efficientnetv2 --extra none --target medina27,soda --seed 0 
+>> train_multisource.py --model convnext --extra none --target medina27,soda --seed 0 
+>> train_multisource.py --model deit --extra none --target medina27,soda --seed 0 
+>> train_multisource.py --model swin --extra none --target medina27,soda --seed 0 
+>> train_multisource.py --model resnet50 --extra soda --target medina27 --seed 0 
+>> train_multisource.py --model mobilenetv3 --extra soda --target medina27 --seed 0 
+>> train_multisource.py --model efficientnetv2 --extra soda --target medina27 --seed 0 
+>> train_multisource.py --model convnext --extra soda --target medina27 --seed 0 
+>> train_multisource.py --model deit --extra soda --target medina27 --seed 0 
+>> train_multisource.py --model swin --extra soda --target medina27 --seed 0 
+>> train_multisource.py --model resnet50 --extra medina27 --target soda --seed 0 
+>> train_multisource.py --model mobilenetv3 --extra medina27 --target soda --seed 0 
+>> train_multisource.py --model efficientnetv2 --extra medina27 --target soda --seed 0 
+>> train_multisource.py --model convnext --extra medina27 --target soda --seed 0 
+>> train_multisource.py --model deit --extra medina27 --target soda --seed 0 
+>> train_multisource.py --model swin --extra medina27 --target soda --seed 0 
+>> train_multisource.py --model resnet50 --extra none --target medina27,soda --seed 1 
+>> train_multisource.py --model mobilenetv3 --extra none --target medina27,soda --seed 1 
+>> train_multisource.py --model efficientnetv2 --extra none --target medina27,soda --seed 1 
+>> train_multisource.py --model convnext --extra none --target medina27,soda --seed 1 
+>> train_multisource.py --model deit --extra none --target medina27,soda --seed 1 
+>> train_multisource.py --model swin --extra none --target medina27,soda --seed 1 
+>> train_multisource.py --model resnet50 --extra soda --target medina27 --seed 1 
+>> train_multisource.py --model mobilenetv3 --extra soda --target medina27 --seed 1 
+>> train_multisource.py --model efficientnetv2 --extra soda --target medina27 --seed 1 
+>> train_multisource.py --model convnext --extra soda --target medina27 --seed 1 
+>> train_multisource.py --model deit --extra soda --target medina27 --seed 1 
+>> train_multisource.py --model swin --extra soda --target medina27 --seed 1 
+>> train_multisource.py --model resnet50 --extra medina27 --target soda --seed 1 
+>> train_multisource.py --model mobilenetv3 --extra medina27 --target soda --seed 1 
+>> train_multisource.py --model efficientnetv2 --extra medina27 --target soda --seed 1 
+>> train_multisource.py --model convnext --extra medina27 --target soda --seed 1 
+>> train_multisource.py --model deit --extra medina27 --target soda --seed 1 
+>> train_multisource.py --model swin --extra medina27 --target soda --seed 1 
+MULTISOURCE DONE
+>> external_test.py medina27 --recipes standard 
+>> external_test.py soda --recipes standard 
+CORE DONE
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --no-aug --seed 1 --tag noaug_s1 
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --no-aug --seed 2 --tag noaug_s2 
+QUEUE DONE

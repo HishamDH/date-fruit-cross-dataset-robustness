@@ -1,0 +1,82 @@
+entries 2326
+       3    .pdf
+       1    .txt
+    1161  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized  .png
+     243  test  .png
+     810  train  .png
+     108  validation  .png
+folders (first 45):
+      4  
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AesleaS10
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AjwaS7
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AnbarahS11
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AsaliahS20
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Balah_HalwahS24
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/BarhiS27
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Barni_AlaisS14
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Date_HalwahS23
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/East_RothanaS18
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Galaxy_SukkariS17
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/KhalasS5
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/LabanhS19
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/MabroomS3
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/MaktoomiS25
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/MedjoolS15
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Meftal_SukkariS16
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Nabt_AliS4
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/RabheahS2
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/ReshedehS9
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/SabbkahS21
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/SafawiS6
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/SaggaeS13
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/SakhalS1
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/ShalabyS12
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/ShesheeS8
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/Sukkary_RuttabS22
+     43  Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/SullajS26
+      9  test/AesleaS10
+      9  test/AjwaS7
+      9  test/AnbarahS11
+      9  test/AsaliahS20
+      9  test/Balah_HalwahS24
+      9  test/BarhiS27
+      9  test/Barni_AlaisS14
+      9  test/Date_HalwahS23
+      9  test/East_RothanaS18
+      9  test/Galaxy_SukkariS17
+      9  test/KhalasS5
+      9  test/LabanhS19
+      9  test/MabroomS3
+      9  test/MaktoomiS25
+      9  test/MedjoolS15
+      9  test/Meftal_SukkariS16
+      9  test/Nabt_AliS4
+non-image files: ['License-v2.txt', 'Medina_27_Dates_Manual_Arabic_2026.pdf', 'Medina_27_Dates_Manual_English_2026.pdf', 'Medina_27_Dates_Measurement_Catalogue.pdf']
+===== License-v2.txt
+The DATASET-1 with all of its versions is licensed under CC BY 4.0:
+
+Medina 27 Dates Hackathon Dataset by Firas A. Alsaidi and Yasser Alraddadi is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+
+
+To view a copy of this license, visit:
+
+https://creativecommons.org/licenses/by/4.0/
+example Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AesleaS10/s10.o10.1.png (1753, 1753) RGB
+example Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AesleaS10/s10.o10.10.png (1185, 1185) RGB
+example Medina 27 Dates Hackathon Dataset v1 in .PNG -Catagorized/AesleaS10/s10.o10.2.png (2093, 2093) RGB
+
+SODA (HF) prepared: 732
+  Ajwa             n  52 | rule says fruit  35 | elong quartiles [1.22, 1.47, 2.15] | area quartiles [0.027, 0.06, 0.15]
+  Anbara           n  52 | rule says fruit  27 | elong quartiles [1.7, 1.98, 2.7] | area quartiles [0.021, 0.087, 0.121]
+  Khalas           n  51 | rule says fruit  31 | elong quartiles [1.36, 1.7, 2.91] | area quartiles [0.014, 0.066, 0.104]
+  Medjool          n  51 | rule says fruit  25 | elong quartiles [1.55, 1.96, 2.89] | area quartiles [0.03, 0.085, 0.138]
+  Raziz            n  67 | rule says fruit  42 | elong quartiles [1.32, 1.54, 2.27] | area quartiles [0.021, 0.067, 0.109]
+  Safawi           n  51 | rule says fruit  27 | elong quartiles [1.63, 1.98, 2.82] | area quartiles [0.02, 0.076, 0.095]
+  Sagai            n  52 | rule says fruit  34 | elong quartiles [1.45, 1.74, 2.69] | area quartiles [0.022, 0.071, 0.106]
+  Shaishi          n  67 | rule says fruit  41 | elong quartiles [1.34, 1.7, 2.64] | area quartiles [0.021, 0.092, 0.156]
+  Shalabi          n  67 | rule says fruit  33 | elong quartiles [1.61, 2.0, 2.83] | area quartiles [0.024, 0.085, 0.144]
+  Sukari_Galaxy    n  51 | rule says fruit  35 | elong quartiles [1.11, 1.32, 2.16] | area quartiles [0.021, 0.074, 0.12]
+  Sukari_Mofattal  n  67 | rule says fruit  53 | elong quartiles [1.19, 1.39, 2.0] | area quartiles [0.029, 0.103, 0.153]
+  Sukari_Rutab     n  51 | rule says fruit  35 | elong quartiles [1.26, 1.45, 2.05] | area quartiles [0.024, 0.079, 0.107]
+  Wanan            n  53 | rule says fruit  32 | elong quartiles [1.44, 1.82, 2.6] | area quartiles [0.019, 0.08, 0.122]

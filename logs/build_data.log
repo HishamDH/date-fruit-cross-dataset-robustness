@@ -1,0 +1,14 @@
+.\code\prepare_data.py:87: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  px = list(g.getdata())
+0 / 1658
+200 / 1658
+400 / 1658
+600 / 1658
+800 / 1658
+1000 / 1658
+1200 / 1658
+1400 / 1658
+1600 / 1658
+wrote 1658 images; [('Ajwa', 175), ('Galaxy', 190), ('Medjool', 135), ('Meneifi', 232), ('Nabtat Ali', 177), ('Rutab', 146), ('Shaishe', 171), ('Sokari', 264), ('Sugaey', 168)]
+exact duplicate files: 0
+distinct file names per class collide: 0

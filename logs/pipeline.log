@@ -1,0 +1,38 @@
+>> train_cv.py --model resnet50 --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model resnet50 --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model resnet50 --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model resnet50 --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --keep-ckpt
+>> train_cv.py --model resnet50 --folds 0 --lr 3e-4 --epochs 12 --tag lr3e-4 --keep-ckpt
+>> train_cv.py --model mobilenetv3 --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model mobilenetv3 --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --keep-ckpt
+>> train_cv.py --model mobilenetv3 --folds 0 --lr 3e-4 --epochs 12 --tag lr3e-4 --keep-ckpt
+>> train_cv.py --model efficientnetv2 --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model efficientnetv2 --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --keep-ckpt
+>> train_cv.py --model efficientnetv2 --folds 0 --lr 3e-4 --epochs 12 --tag lr3e-4 --keep-ckpt
+>> train_cv.py --model convnext --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model convnext --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --keep-ckpt
+>> train_cv.py --model convnext --folds 0 --lr 3e-4 --epochs 12 --tag lr3e-4 --keep-ckpt
+>> train_cv.py --model deit --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model deit --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --keep-ckpt
+>> train_cv.py --model deit --folds 0 --lr 3e-4 --epochs 12 --tag lr3e-4 --keep-ckpt
+>> train_cv.py --model swin --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --keep-ckpt
+>> train_cv.py --model swin --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --keep-ckpt
+>> train_cv.py --model swin --folds 0 --lr 3e-4 --epochs 12 --tag lr3e-4 --keep-ckpt
+learning rate for resnet50: 1e-4  {'3e-5': 0.988, '1e-4': 1.0, '3e-4': 0.988}
+learning rate for mobilenetv3: 3e-4  {'3e-5': 0.9217, '1e-4': 0.9759, '3e-4': 1.0}
+learning rate for efficientnetv2: 3e-4  {'3e-5': 0.9217, '1e-4': 0.988, '3e-4': 1.0}
+learning rate for convnext: 3e-4  {'3e-5': 0.994, '1e-4': 1.0, '3e-4': 1.0}
+learning rate for deit: 3e-4  {'3e-5': 1.0, '1e-4': 0.994, '3e-4': 1.0}
+learning rate for swin: 1e-4  {'3e-5': 1.0, '1e-4': 1.0, '3e-4': 1.0}
+>> train_cv.py --model resnet50 --lr 1e-4 --epochs 12 --keep-ckpt
+>> train_cv.py --model mobilenetv3 --lr 3e-4 --epochs 12 --keep-ckpt
+>> train_cv.py --model efficientnetv2 --lr 3e-4 --epochs 12 --keep-ckpt
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --keep-ckpt
+>> train_cv.py --model deit --lr 3e-4 --epochs 12 --keep-ckpt
+>> train_cv.py --model swin --lr 1e-4 --epochs 12 --keep-ckpt
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --no-aug --tag noaug
+>> train_cv.py --model convnext --lr 3e-4 --epochs 48 --scratch --tag scratch
+>> efficiency.py
+>> gradcam.py --models resnet50,mobilenetv3,efficientnetv2,convnext,deit,swin
+>> analyze.py
+ALL DONE

@@ -1,0 +1,65 @@
+stopped 16696
+stopped 30340
+removed .\data_ext\soda_hf
+removed .\data_ext\soda
+removed .\data_ext\medina27
+removed partial SODA copy
+preparing medina27
+medina27 50 images, 1.2 s each
+medina27 100 images, 1.1 s each
+medina27 150 images, 1.1 s each
+medina27 200 images, 1.0 s each
+medina27 250 images, 0.9 s each
+medina27 300 images, 0.9 s each
+medina27 350 images, 0.8 s each
+medina27 400 images, 0.8 s each
+medina27 450 images, 0.8 s each
+medina27 500 images, 0.8 s each
+medina27 550 images, 0.7 s each
+medina27 600 images, 0.7 s each
+medina27 650 images, 0.8 s each
+medina27 700 images, 0.8 s each
+medina27 750 images, 0.8 s each
+medina27 800 images, 0.8 s each
+medina27 850 images, 0.8 s each
+medina27 900 images, 0.7 s each
+medina27 950 images, 0.7 s each
+medina27 1000 images, 0.7 s each
+medina27 1050 images, 0.7 s each
+medina27 1100 images, 0.7 s each
+medina27 1150 images, 0.7 s each
+PREPARE DONE medina27 1161 new images
+preparing soda
+soda 50 images, 1.0 s each
+soda 100 images, 0.8 s each
+soda 150 images, 0.7 s each
+soda 200 images, 0.7 s each
+soda 250 images, 0.7 s each
+soda 300 images, 0.7 s each
+soda 350 images, 0.6 s each
+soda 400 images, 0.6 s each
+soda 450 images, 0.7 s each
+soda 500 images, 0.7 s each
+soda 550 images, 0.7 s each
+soda 600 images, 0.8 s each
+soda 650 images, 0.8 s each
+soda 700 images, 0.8 s each
+soda 750 images, 0.7 s each
+soda 800 images, 0.7 s each
+soda 850 images, 0.7 s each
+soda 900 images, 0.7 s each
+soda 950 images, 0.7 s each
+soda 1000 images, 0.7 s each
+soda 1050 images, 0.7 s each
+soda 1100 images, 0.7 s each
+soda 1150 images, 0.7 s each
+soda 1200 images, 0.7 s each
+soda 1250 images, 0.7 s each
+soda 1300 images, 0.8 s each
+soda 1350 images, 0.8 s each
+soda 1400 images, 0.8 s each
+soda 1450 images, 0.8 s each
+soda 1500 images, 0.8 s each
+soda 1550 images, 0.8 s each
+PREPARE DONE soda 1573 new images
+REDO DONE

@@ -1,0 +1,7 @@
+>> train_cv.py --model resnet50 --lr 1e-4 --epochs 12 --rigid-aug --tag rigid
+>> train_cv.py --model mobilenetv3 --lr 3e-4 --epochs 12 --rigid-aug --tag rigid
+>> train_cv.py --model efficientnetv2 --lr 3e-4 --epochs 12 --rigid-aug --tag rigid
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --rigid-aug --tag rigid
+>> train_cv.py --model deit --lr 3e-4 --epochs 12 --rigid-aug --tag rigid
+>> train_cv.py --model swin --lr 1e-4 --epochs 12 --rigid-aug --tag rigid
+REPLICATION DONE

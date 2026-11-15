@@ -1,0 +1,86 @@
+PASS manifest has 1658 images in 9 classes [175, 190, 135, 232, 177, 146, 171, 264, 168]
+PASS each image has one test fold 
+PASS fold 0: train/val/test disjoint, complete, all classes present 1160/166/332
+PASS fold 1: train/val/test disjoint, complete, all classes present 1160/166/332
+PASS fold 2: train/val/test disjoint, complete, all classes present 1160/166/332
+PASS fold 3: train/val/test disjoint, complete, all classes present 1161/166/331
+PASS fold 4: train/val/test disjoint, complete, all classes present 1161/166/331
+five-fold runs: ['clip_s1', 'convnext', 'convnext_in22k_s1', 'convnext_noaug', 'convnext_noaug_s1', 'convnext_noaug_s2', 'convnext_rigid', 'convnext_s1', 'convnext_s2', 'convnext_scratch', 'convnext_strong_s1', 'deit', 'deit_rigid', 'deit_s1', 'deit_s2', 'deit_strong_s1', 'dinov2_s1', 'efficientnetv2', 'efficientnetv2_rigid', 'efficientnetv2_s1', 'efficientnetv2_s2', 'efficientnetv2_strong_s1', 'mobilenetv3', 'mobilenetv3_rigid', 'mobilenetv3_s1', 'mobilenetv3_s2', 'mobilenetv3_strong_s1', 'resnet50', 'resnet50_rigid', 'resnet50_s1', 'resnet50_s2', 'resnet50_strong_s1', 'svm', 'swin', 'swin_rigid', 'swin_s1', 'swin_s2', 'swin_strong_s1', 'vit_in21k_s1']
+PASS clip_s1                predictions consistent; summary matches acc 98.79 +- 0.48, pooled 1638/1658, mCA 87.99
+PASS convnext               predictions consistent; summary matches acc 98.31 +- 1.20, pooled 1630/1658, mCA 86.89
+PASS convnext_in22k_s1      predictions consistent; summary matches acc 98.92 +- 0.69, pooled 1640/1658, mCA 89.00
+PASS convnext_noaug         predictions consistent; summary matches acc 99.28 +- 0.17, pooled 1646/1658, mCA 91.02
+PASS convnext_noaug_s1      predictions consistent; summary matches acc 99.28 +- 0.59, pooled 1646/1658, mCA 93.44
+PASS convnext_noaug_s2      predictions consistent; summary matches acc 99.34 +- 0.25, pooled 1647/1658, mCA 91.02
+PASS convnext_rigid         predictions consistent; summary matches acc 98.79 +- 0.71, pooled 1638/1658, mCA 90.18
+PASS convnext_s1            predictions consistent; summary matches acc 98.55 +- 1.23, pooled 1634/1658, mCA 86.48
+PASS convnext_s2            predictions consistent; summary matches acc 98.92 +- 1.08, pooled 1640/1658, mCA 87.10
+PASS convnext_scratch       predictions consistent; summary matches acc 88.48 +- 2.11, pooled 1467/1658, mCA 65.51
+PASS convnext_strong_s1     predictions consistent; summary matches acc 98.07 +- 1.01, pooled 1626/1658, mCA 95.93
+PASS deit                   predictions consistent; summary matches acc 97.83 +- 0.89, pooled 1622/1658, mCA 89.09
+PASS deit_rigid             predictions consistent; summary matches acc 98.31 +- 0.89, pooled 1630/1658, mCA 90.22
+PASS deit_s1                predictions consistent; summary matches acc 97.71 +- 1.16, pooled 1620/1658, mCA 88.91
+PASS deit_s2                predictions consistent; summary matches acc 97.95 +- 1.34, pooled 1624/1658, mCA 89.25
+PASS deit_strong_s1         predictions consistent; summary matches acc 97.89 +- 1.31, pooled 1623/1658, mCA 94.60
+PASS dinov2_s1              predictions consistent; summary matches acc 97.77 +- 0.87, pooled 1621/1658, mCA 89.57
+PASS efficientnetv2         predictions consistent; summary matches acc 98.79 +- 0.82, pooled 1638/1658, mCA 78.05
+PASS efficientnetv2_rigid   predictions consistent; summary matches acc 98.85 +- 0.33, pooled 1639/1658, mCA 79.33
+PASS efficientnetv2_s1      predictions consistent; summary matches acc 98.67 +- 0.69, pooled 1636/1658, mCA 78.18
+PASS efficientnetv2_s2      predictions consistent; summary matches acc 98.37 +- 0.81, pooled 1631/1658, mCA 75.44
+PASS efficientnetv2_strong_s1 predictions consistent; summary matches acc 98.61 +- 0.81, pooled 1635/1658, mCA 95.67
+PASS mobilenetv3            predictions consistent; summary matches acc 97.47 +- 0.81, pooled 1616/1658, mCA 60.96
+PASS mobilenetv3_rigid      predictions consistent; summary matches acc 98.37 +- 0.97, pooled 1631/1658, mCA 62.09
+PASS mobilenetv3_s1         predictions consistent; summary matches acc 97.35 +- 1.45, pooled 1614/1658, mCA 62.53
+PASS mobilenetv3_s2         predictions consistent; summary matches acc 97.59 +- 1.06, pooled 1618/1658, mCA 59.55
+PASS mobilenetv3_strong_s1  predictions consistent; summary matches acc 97.47 +- 1.06, pooled 1616/1658, mCA 87.56
+PASS resnet50               predictions consistent; summary matches acc 96.92 +- 1.01, pooled 1607/1658, mCA 74.62
+PASS resnet50_rigid         predictions consistent; summary matches acc 97.35 +- 0.62, pooled 1614/1658, mCA 75.64
+PASS resnet50_s1            predictions consistent; summary matches acc 96.99 +- 1.24, pooled 1608/1658, mCA 73.48
+PASS resnet50_s2            predictions consistent; summary matches acc 97.83 +- 0.89, pooled 1622/1658, mCA 74.09
+PASS resnet50_strong_s1     predictions consistent; summary matches acc 97.89 +- 1.35, pooled 1623/1658, mCA 94.77
+PASS svm                    predictions consistent; summary matches acc 94.99 +- 1.95, pooled 1575/1658, mCA 42.03
+PASS swin                   predictions consistent; summary matches acc 98.67 +- 0.34, pooled 1636/1658, mCA 86.71
+PASS swin_rigid             predictions consistent; summary matches acc 98.49 +- 0.71, pooled 1633/1658, mCA 87.58
+PASS swin_s1                predictions consistent; summary matches acc 98.55 +- 0.86, pooled 1634/1658, mCA 87.14
+PASS swin_s2                predictions consistent; summary matches acc 98.25 +- 1.09, pooled 1629/1658, mCA 86.52
+PASS swin_strong_s1         predictions consistent; summary matches acc 97.83 +- 0.98, pooled 1622/1658, mCA 94.83
+PASS vit_in21k_s1           predictions consistent; summary matches acc 98.25 +- 1.50, pooled 1629/1658, mCA 92.42
+PASS svm                    reported mean over 1 seeds matches acc 94.99 +- 1.95, mCA 42.03
+PASS resnet50               reported mean over 3 seeds matches acc 97.25 +- 1.07, mCA 74.07
+PASS mobilenetv3            reported mean over 3 seeds matches acc 97.47 +- 1.06, mCA 61.01
+PASS efficientnetv2         reported mean over 3 seeds matches acc 98.61 +- 0.74, mCA 77.22
+PASS convnext               reported mean over 3 seeds matches acc 98.59 +- 1.11, mCA 86.82
+PASS deit                   reported mean over 3 seeds matches acc 97.83 +- 1.06, mCA 89.09
+PASS swin                   reported mean over 3 seeds matches acc 98.49 +- 0.79, mCA 86.79
+PASS resnet50_rigid         reported mean over 1 seeds matches acc 97.35 +- 0.62, mCA 75.64
+PASS mobilenetv3_rigid      reported mean over 1 seeds matches acc 98.37 +- 0.97, mCA 62.09
+PASS efficientnetv2_rigid   reported mean over 1 seeds matches acc 98.85 +- 0.33, mCA 79.33
+PASS convnext_rigid         reported mean over 1 seeds matches acc 98.79 +- 0.71, mCA 90.18
+PASS deit_rigid             reported mean over 1 seeds matches acc 98.31 +- 0.89, mCA 90.22
+PASS swin_rigid             reported mean over 1 seeds matches acc 98.49 +- 0.71, mCA 87.58
+PASS convnext_noaug         reported mean over 3 seeds matches acc 99.30 +- 0.35, mCA 91.83
+PASS convnext_scratch       reported mean over 1 seeds matches acc 88.48 +- 2.11, mCA 65.51
+PASS convnext_in22k         reported mean over 1 seeds matches acc 98.92 +- 0.69, mCA 89.00
+PASS vit_in21k              reported mean over 1 seeds matches acc 98.25 +- 1.50, mCA 92.42
+PASS dinov2                 reported mean over 1 seeds matches acc 97.77 +- 0.87, mCA 89.57
+PASS clip                   reported mean over 1 seeds matches acc 98.79 +- 0.48, mCA 87.99
+PASS resnet50_strong        reported mean over 1 seeds matches acc 97.89 +- 1.35, mCA 94.77
+PASS mobilenetv3_strong     reported mean over 1 seeds matches acc 97.47 +- 1.06, mCA 87.56
+PASS efficientnetv2_strong  reported mean over 1 seeds matches acc 98.61 +- 0.81, mCA 95.67
+PASS convnext_strong        reported mean over 1 seeds matches acc 98.07 +- 1.01, mCA 95.93
+PASS deit_strong            reported mean over 1 seeds matches acc 97.89 +- 1.31, mCA 94.60
+PASS swin_strong            reported mean over 1 seeds matches acc 97.83 +- 0.98, mCA 94.83
+PASS external set medina27  shares no file with the main dataset 1160 files
+PASS external set soda      shares no file with the main dataset 1573 files
+PASS learning rate of resnet50        follows validation 1e-4 {'3e-5': 0.988, '1e-4': 1.0, '3e-4': 0.988}
+PASS learning rate of mobilenetv3     follows validation 3e-4 {'3e-5': 0.9217, '1e-4': 0.9759, '3e-4': 1.0}
+PASS learning rate of efficientnetv2  follows validation 3e-4 {'3e-5': 0.9217, '1e-4': 0.988, '3e-4': 1.0}
+PASS learning rate of convnext        follows validation 3e-4 {'3e-5': 0.994, '1e-4': 1.0, '3e-4': 1.0}
+PASS learning rate of deit            follows validation 3e-4 {'3e-5': 1.0, '1e-4': 0.994, '3e-4': 1.0}
+PASS learning rate of swin            follows validation 1e-4 {'3e-5': 1.0, '1e-4': 1.0, '3e-4': 1.0}
+PASS learning rate of convnext_in22k  follows validation 1e-4 {'1e-5': 0.9819, '3e-5': 0.994, '1e-4': 1.0}
+PASS learning rate of vit_in21k       follows validation 1e-4 {'1e-5': 1.0, '3e-5': 1.0, '1e-4': 1.0}
+PASS learning rate of dinov2          follows validation 3e-5 {'1e-5': 1.0, '3e-5': 1.0, '1e-4': 0.994}
+PASS learning rate of clip            follows validation 3e-5 {'1e-5': 1.0, '3e-5': 1.0, '1e-4': 0.994}
+largest class share: 15.92%; uniform chance: 11.11%
+RESULT: ALL CHECKS PASSED

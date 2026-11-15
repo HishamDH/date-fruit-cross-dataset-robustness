@@ -1,0 +1,33 @@
+>> train_multisource.py --model resnet50 --extra none --target medina27,soda --seed 2 
+>> train_multisource.py --model mobilenetv3 --extra none --target medina27,soda --seed 2 
+>> train_multisource.py --model efficientnetv2 --extra none --target medina27,soda --seed 2 
+>> train_multisource.py --model convnext --extra none --target medina27,soda --seed 2 
+>> train_multisource.py --model deit --extra none --target medina27,soda --seed 2 
+>> train_multisource.py --model swin --extra none --target medina27,soda --seed 2 
+>> train_multisource.py --model resnet50 --extra soda --target medina27 --seed 2 
+>> train_multisource.py --model mobilenetv3 --extra soda --target medina27 --seed 2 
+>> train_multisource.py --model efficientnetv2 --extra soda --target medina27 --seed 2 
+>> train_multisource.py --model convnext --extra soda --target medina27 --seed 2 
+>> train_multisource.py --model deit --extra soda --target medina27 --seed 2 
+>> train_multisource.py --model swin --extra soda --target medina27 --seed 2 
+>> train_multisource.py --model resnet50 --extra medina27 --target soda --seed 2 
+>> train_multisource.py --model mobilenetv3 --extra medina27 --target soda --seed 2 
+>> train_multisource.py --model efficientnetv2 --extra medina27 --target soda --seed 2 
+>> train_multisource.py --model convnext --extra medina27 --target soda --seed 2 
+>> train_multisource.py --model deit --extra medina27 --target soda --seed 2 
+>> train_multisource.py --model swin --extra medina27 --target soda --seed 2 
+MULTISOURCE SEED 2 DONE
+>> train_cv.py --model resnet50 --lr 1e-4 --epochs 12 --seed 1 --tag s1 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model mobilenetv3 --lr 3e-4 --epochs 12 --seed 1 --tag s1 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model efficientnetv2 --lr 3e-4 --epochs 12 --seed 1 --tag s1 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --seed 1 --tag s1 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model deit --lr 3e-4 --epochs 12 --seed 1 --tag s1 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model swin --lr 1e-4 --epochs 12 --seed 1 --tag s1 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model resnet50 --lr 1e-4 --epochs 12 --seed 2 --tag s2 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model mobilenetv3 --lr 3e-4 --epochs 12 --seed 2 --tag s2 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model efficientnetv2 --lr 3e-4 --epochs 12 --seed 2 --tag s2 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --seed 2 --tag s2 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model deit --lr 3e-4 --epochs 12 --seed 2 --tag s2 {'DATES_DATASET': 'soda'}
+>> train_cv.py --model swin --lr 1e-4 --epochs 12 --seed 2 --tag s2 {'DATES_DATASET': 'soda'}
+SODA SEEDS DONE
+QUEUE2 DONE

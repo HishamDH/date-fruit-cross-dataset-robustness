@@ -1,0 +1,35 @@
+queue 2 finished
+>> external_tta.py medina27 
+>> external_tta.py soda 
+TTA DONE
+>> train_cv.py --model convnext_in22k --folds 0 --lr 1e-5 --epochs 12 --tag lr1e-5 --val-only 
+>> train_cv.py --model convnext_in22k --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --val-only 
+>> train_cv.py --model convnext_in22k --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --val-only 
+learning rate for convnext_in22k: 1e-4  {'1e-5': 0.9819, '3e-5': 0.994, '1e-4': 1.0}
+>> train_cv.py --model convnext_in22k --lr 1e-4 --epochs 12 --seed 1 --tag s1 --keep-all-ckpt 
+>> train_cv.py --model vit_in21k --folds 0 --lr 1e-5 --epochs 12 --tag lr1e-5 --val-only 
+>> train_cv.py --model vit_in21k --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --val-only 
+>> train_cv.py --model vit_in21k --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --val-only 
+learning rate for vit_in21k: 1e-4  {'1e-5': 1.0, '3e-5': 1.0, '1e-4': 1.0}
+>> train_cv.py --model vit_in21k --lr 1e-4 --epochs 12 --seed 1 --tag s1 --keep-all-ckpt 
+>> train_cv.py --model dinov2 --folds 0 --lr 1e-5 --epochs 12 --tag lr1e-5 --val-only 
+>> train_cv.py --model dinov2 --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --val-only 
+>> train_cv.py --model dinov2 --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --val-only 
+learning rate for dinov2: 3e-5  {'1e-5': 1.0, '3e-5': 1.0, '1e-4': 0.994}
+>> train_cv.py --model dinov2 --lr 3e-5 --epochs 12 --seed 1 --tag s1 --keep-all-ckpt 
+>> train_cv.py --model clip --folds 0 --lr 1e-5 --epochs 12 --tag lr1e-5 --val-only 
+>> train_cv.py --model clip --folds 0 --lr 3e-5 --epochs 12 --tag lr3e-5 --val-only 
+>> train_cv.py --model clip --folds 0 --lr 1e-4 --epochs 12 --tag lr1e-4 --val-only 
+learning rate for clip: 3e-5  {'1e-5': 1.0, '3e-5': 1.0, '1e-4': 0.994}
+>> train_cv.py --model clip --lr 3e-5 --epochs 12 --seed 1 --tag s1 --keep-all-ckpt 
+EXTRA MODELS DONE
+>> train_cv.py --model resnet50 --lr 1e-4 --epochs 12 --strong-aug --seed 1 --tag strong_s1 --keep-all-ckpt 
+>> train_cv.py --model mobilenetv3 --lr 3e-4 --epochs 12 --strong-aug --seed 1 --tag strong_s1 --keep-all-ckpt 
+>> train_cv.py --model efficientnetv2 --lr 3e-4 --epochs 12 --strong-aug --seed 1 --tag strong_s1 --keep-all-ckpt 
+>> train_cv.py --model convnext --lr 3e-4 --epochs 12 --strong-aug --seed 1 --tag strong_s1 --keep-all-ckpt 
+>> train_cv.py --model deit --lr 3e-4 --epochs 12 --strong-aug --seed 1 --tag strong_s1 --keep-all-ckpt 
+>> train_cv.py --model swin --lr 1e-4 --epochs 12 --strong-aug --seed 1 --tag strong_s1 --keep-all-ckpt 
+STRONG AUGMENTATION DONE
+>> external_test.py medina27 --recipes standard,strong 
+>> external_test.py soda --recipes standard,strong 
+QUEUE3 DONE

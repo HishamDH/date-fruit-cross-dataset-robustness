@@ -1,0 +1,65 @@
+SODA card: {'id': 'gfbati/soda', 'lastModified': '2026-07-06T14:52:12.000Z', 'gated': False, 'private': False} | licence tags: ['license:cc-by-4.0']
+SODA files: 1308 total MB 1696.9
+       1  .gitattributes
+       1  README.md
+       1  Soda.ows
+       1  TabularDataset/efficientnet_v2_features.csv
+       1  TabularDataset/inception_v3_features.csv
+       1  TabularDataset/mobilenet_v3_features.csv
+       1  TabularDataset/resnet50_features.csv
+       1  TabularDataset/resnet_v2_features.csv
+       1  خلاص Khalas/02b5c4e6-d05d-499b-839d-001154d35ca5.jpg
+       1  خلاص Khalas/1666061791611.jpg
+       1  خلاص Khalas/1668372425546.jpg
+       1  خلاص Khalas/1668372425546.png
+       1  خلاص Khalas/1668372425554.jpg
+       1  خلاص Khalas/1668372425554.png
+       1  خلاص Khalas/1668372425565.jpg
+       1  خلاص Khalas/1668372425565.png
+       1  خلاص Khalas/1668372425575.jpg
+       1  خلاص Khalas/1668372425575.png
+       1  خلاص Khalas/1668372425581.jpg
+       1  خلاص Khalas/1668372425581.png
+       1  خلاص Khalas/1668372425588.jpg
+       1  خلاص Khalas/1668372425588.png
+       1  خلاص Khalas/1668372425595.jpg
+       1  خلاص Khalas/1668372425595.png
+       1  خلاص Khalas/1668372425602.jpg
+       1  خلاص Khalas/1668372425602.png
+       1  خلاص Khalas/1668372425610.jpg
+       1  خلاص Khalas/1668372425610.png
+       1  خلاص Khalas/1668372425615.jpg
+       1  خلاص Khalas/1668372425615.png
+       1  خلاص Khalas/1668372425622.jpg
+       1  خلاص Khalas/1668372425622.png
+       1  خلاص Khalas/1668372425628.jpg
+       1  خلاص Khalas/1668372425628.png
+       1  خلاص Khalas/1668372425645.jpg
+       1  خلاص Khalas/1668372425645.png
+       1  خلاص Khalas/1668372425656.jpg
+       1  خلاص Khalas/1668372425656.png
+       1  خلاص Khalas/1668372425663.jpg
+       1  خلاص Khalas/1668372425663.png
+       1  خلاص Khalas/1668372425670.jpg
+       1  خلاص Khalas/1668372425670.png
+       1  خلاص Khalas/1668372425677.jpg
+       1  خلاص Khalas/1668372425677.png
+       1  خلاص Khalas/1668372425688.jpg
+       1  خلاص Khalas/1668372425688.png
+       1  خلاص Khalas/1668372425697.jpg
+       1  خلاص Khalas/1668372425697.png
+       1  خلاص Khalas/1668372425706.jpg
+       1  خلاص Khalas/1668372425706.png
+       1  خلاص Khalas/1668372425719.jpg
+       1  خلاص Khalas/1668372425719.png
+       1  خلاص Khalas/1668372425727.jpg
+       1  خلاص Khalas/1668372425727.png
+       1  خلاص Khalas/1668372425735.jpg
+       1  خلاص Khalas/1668372425735.png
+       1  خلاص Khalas/1668372425742.jpg
+       1  خلاص Khalas/1668372425742.png
+       1  خلاص Khalas/1668372425752.jpg
+       1  خلاص Khalas/1668372425752.png
+MENDELEY: None | licence: None | published: None
+MENDELEY error AttributeError("'str' object has no attribute 'get'")
+UCI zip: 200 None None

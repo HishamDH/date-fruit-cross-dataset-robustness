@@ -1,0 +1,20 @@
+soda images 360 shared classes ['Ajwa', 'Galaxy', 'Medjool', 'Shaishe', 'Sugaey'] counts [75, 73, 73, 0, 0, 0, 70, 0, 69]
+frame|standard|resnet50      acc 0.313 +- 0.027  balanced 0.305  ensemble 0.311  recalls {'Ajwa': 0.99, 'Gala': 0.28, 'Medj': 0.15, 'Shai': 0.1, 'Suga': 0.01}
+frame|standard|mobilenetv3   acc 0.238 +- 0.018  balanced 0.231  ensemble 0.242  recalls {'Ajwa': 0.87, 'Gala': 0.1, 'Medj': 0.14, 'Shai': 0.03, 'Suga': 0.01}
+frame|standard|efficientnetv2 acc 0.323 +- 0.056  balanced 0.314  ensemble 0.350  recalls {'Ajwa': 0.95, 'Gala': 0.37, 'Medj': 0.22, 'Shai': 0.02, 'Suga': 0.02}
+frame|standard|convnext      acc 0.349 +- 0.030  balanced 0.340  ensemble 0.356  recalls {'Ajwa': 1.0, 'Gala': 0.41, 'Medj': 0.22, 'Shai': 0.05, 'Suga': 0.02}
+frame|standard|deit          acc 0.394 +- 0.034  balanced 0.384  ensemble 0.411  recalls {'Ajwa': 1.0, 'Gala': 0.59, 'Medj': 0.22, 'Shai': 0.09, 'Suga': 0.01}
+frame|standard|swin          acc 0.367 +- 0.024  balanced 0.357  ensemble 0.364  recalls {'Ajwa': 1.0, 'Gala': 0.45, 'Medj': 0.22, 'Shai': 0.1, 'Suga': 0.02}
+fruit|standard|resnet50      acc 0.312 +- 0.024  balanced 0.304  ensemble 0.314  recalls {'Ajwa': 0.98, 'Gala': 0.17, 'Medj': 0.21, 'Shai': 0.13, 'Suga': 0.03}
+fruit|standard|mobilenetv3   acc 0.252 +- 0.034  balanced 0.245  ensemble 0.269  recalls {'Ajwa': 0.82, 'Gala': 0.05, 'Medj': 0.24, 'Shai': 0.08, 'Suga': 0.03}
+fruit|standard|efficientnetv2 acc 0.332 +- 0.056  balanced 0.324  ensemble 0.369  recalls {'Ajwa': 0.87, 'Gala': 0.28, 'Medj': 0.33, 'Shai': 0.07, 'Suga': 0.08}
+fruit|standard|convnext      acc 0.352 +- 0.041  balanced 0.344  ensemble 0.344  recalls {'Ajwa': 0.98, 'Gala': 0.23, 'Medj': 0.29, 'Shai': 0.07, 'Suga': 0.14}
+fruit|standard|deit          acc 0.402 +- 0.033  balanced 0.392  ensemble 0.400  recalls {'Ajwa': 0.99, 'Gala': 0.46, 'Medj': 0.34, 'Shai': 0.1, 'Suga': 0.07}
+fruit|standard|swin          acc 0.376 +- 0.030  balanced 0.367  ensemble 0.372  recalls {'Ajwa': 0.99, 'Gala': 0.37, 'Medj': 0.26, 'Shai': 0.12, 'Suga': 0.1}
+plain|standard|resnet50      acc 0.331 +- 0.025  balanced 0.323  ensemble 0.335  recalls {'Ajwa': 1.0, 'Gala': 0.19, 'Medj': 0.2, 'Shai': 0.15, 'Suga': 0.08}
+plain|standard|mobilenetv3   acc 0.340 +- 0.016  balanced 0.332  ensemble 0.350  recalls {'Ajwa': 0.97, 'Gala': 0.2, 'Medj': 0.25, 'Shai': 0.16, 'Suga': 0.09}
+plain|standard|efficientnetv2 acc 0.294 +- 0.036  balanced 0.287  ensemble 0.306  recalls {'Ajwa': 0.93, 'Gala': 0.16, 'Medj': 0.2, 'Shai': 0.08, 'Suga': 0.07}
+plain|standard|convnext      acc 0.349 +- 0.038  balanced 0.341  ensemble 0.333  recalls {'Ajwa': 0.99, 'Gala': 0.25, 'Medj': 0.27, 'Shai': 0.07, 'Suga': 0.12}
+plain|standard|deit          acc 0.394 +- 0.043  balanced 0.385  ensemble 0.400  recalls {'Ajwa': 0.99, 'Gala': 0.38, 'Medj': 0.32, 'Shai': 0.15, 'Suga': 0.07}
+plain|standard|swin          acc 0.369 +- 0.029  balanced 0.361  ensemble 0.383  recalls {'Ajwa': 1.0, 'Gala': 0.38, 'Medj': 0.25, 'Shai': 0.1, 'Suga': 0.08}
+EXTERNAL DONE soda

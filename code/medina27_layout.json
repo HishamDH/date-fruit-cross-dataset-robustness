@@ -1,0 +1,5 @@
+{
+ "pattern": "Catagorized/([A-Za-z_]+?)S\\d+/",
+ "extensions": [".png"],
+ "note": "Only the per-class PNG folder is read; the train/test/validation folders hold resized copies of the same photos."
+}

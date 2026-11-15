@@ -1,0 +1,52 @@
+UCI zip entries 417
+       1  __MACOSX  
+       2  __MACOSX/ajwa+or+medjool  
+       5  __MACOSX/ajwa+or+medjool  .csv
+       1  __MACOSX/ajwa+or+medjool  .ds_store
+       1  __MACOSX/ajwa+or+medjool  .md
+      50  __MACOSX/ajwa+or+medjool/Ajwa  .jpg
+      50  __MACOSX/ajwa+or+medjool/Ajwa  .png
+      50  __MACOSX/ajwa+or+medjool/Medjool  .jpg
+      50  __MACOSX/ajwa+or+medjool/Medjool  .png
+       1  ajwa+or+medjool  
+       5  ajwa+or+medjool  .csv
+       1  ajwa+or+medjool  .md
+      50  ajwa+or+medjool/Ajwa  .jpg
+      50  ajwa+or+medjool/Ajwa  .png
+      50  ajwa+or+medjool/Medjool  .jpg
+      50  ajwa+or+medjool/Medjool  .png
+   examples ['__MACOSX/._ajwa+or+medjool', 'ajwa+or+medjool/.DS_Store', '__MACOSX/ajwa+or+medjool/._.DS_Store', 'ajwa+or+medjool/Embedded images - Inception V3.csv', '__MACOSX/ajwa+or+medjool/._Embedded images - Inception V3.csv', '__MACOSX/ajwa+or+medjool/._Ajwa']
+   inner zips []
+SODA TabularDataset
+       5  .                            .csv   e.g. efficientnet_v2_features.csv  
+SODA خلاص Khalas
+      51  .                            .jpg   e.g. 02b5c4e6-d05d-499b-839d-001154d35ca5.jpg  1200x1600 RGB
+      49  .                            .png   e.g. 1668372425546.png  1844x4096 RGBA
+SODA رزيز Raziz
+      67  .                            .jpg   e.g. 0cafcbe4-2768-4d7c-82de-c734ac3f2254.jpg  900x1600 RGB
+      33  .                            .png   e.g. 1668371647230.png  1844x4096 RGBA
+SODA سكري جالكسي Sukari Galaxy
+      51  .                            .jpg   e.g. 0702dfab-1b3a-479e-93fc-1b748799d646.jpg  900x1600 RGB
+      49  .                            .png   e.g. 1668163782722.png  1844x4096 RGBA
+SODA سكري رطب Sukari Rutab
+      51  .                            .jpg   e.g. 07c1c2ca-52e5-4f5d-8854-9ef3948484c8.jpg  900x1600 RGB
+      49  .                            .png   e.g. 1668335121741.png  1844x4096 RGBA
+SODA سكري مفتل Sukari Mofattal
+      67  .                            .jpg   e.g. 052c8cf8-8714-4267-a83f-aba28de642ac.jpg  900x1600 RGB
+      33  .                            .png   e.g. IMG_20221113_211520.png  1844x4096 RGBA
+SODA شلبي Shalabi
+      67  .                            .jpg   e.g. 1666064657484.jpg  5760x2592 RGB
+      33  .                            .png   e.g. 1668161755935.png  1844x4096 RGBA
+SODA شيشي Shaishi
+      67  .                            .jpg   e.g. 1666065961706.jpg  5760x2592 RGB
+      33  .                            .png   e.g. 1668370183073.png  1844x4096 RGBA
+SODA صفاوي Safawi
+      51  .                            .jpg   e.g. 1666062629120.jpg  5760x2592 RGB
+      49  .                            .png   e.g. 1668336416671.png  1844x4096 RGBA
+SODA صقعي Sagai
+      52  .                            .jpg   e.g. 078f97df-0c21-4724-894d-a5b0a5276c68.jpg  768x1024 RGB
+      48  .                            .png   e.g. 1668339002336.png  1844x4096 RGBA
+SODA عجوة Ajwa
+       4  .                            .jpg   e.g. 03b87d13-e645-4842-b557-8b8239e6ac7b.jpg  900x1600 RGB
+       1  .                            .png   e.g. 1665224234344.png  2592x5760 RGBA
+SODA files in class folders: 910

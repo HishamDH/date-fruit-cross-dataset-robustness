@@ -1,0 +1,30 @@
+
+>> external_tta.py medina27
+frame|resnet50         {'base': 50.8, 'tta': 56.0, 'bn': 49.5}
+frame|mobilenetv3      {'base': 29.6, 'tta': 35.7, 'bn': 32.1}
+frame|efficientnetv2   {'base': 32.3, 'tta': 39.8, 'bn': 33.5}
+frame|convnext         {'base': 58.7, 'tta': 61.9}
+frame|deit             {'base': 57.4, 'tta': 58.6}
+frame|swin             {'base': 61.3, 'tta': 64.7}
+plain|resnet50         {'base': 47.4, 'tta': 59.9, 'bn': 52.7}
+plain|mobilenetv3      {'base': 42.5, 'tta': 54.1, 'bn': 51.9}
+plain|efficientnetv2   {'base': 35.2, 'tta': 48.6, 'bn': 47.3}
+plain|convnext         {'base': 57.1, 'tta': 63.9}
+plain|deit             {'base': 52.5, 'tta': 60.1}
+plain|swin             {'base': 57.0, 'tta': 61.6}
+TTA DONE medina27
+
+>> external_tta.py soda
+frame|resnet50         {'base': 31.3, 'tta': 29.9, 'bn': 37.2}
+frame|mobilenetv3      {'base': 22.3, 'tta': 26.3, 'bn': 30.8}
+frame|efficientnetv2   {'base': 31.2, 'tta': 31.2, 'bn': 35.5}
+frame|convnext         {'base': 34.2, 'tta': 33.0}
+frame|deit             {'base': 37.3, 'tta': 35.4}
+frame|swin             {'base': 36.7, 'tta': 35.2}
+plain|resnet50         {'base': 33.1, 'tta': 31.5, 'bn': 39.4}
+plain|mobilenetv3      {'base': 33.9, 'tta': 32.3, 'bn': 39.6}
+plain|efficientnetv2   {'base': 29.8, 'tta': 27.9, 'bn': 39.8}
+plain|convnext         {'base': 34.5, 'tta': 33.5}
+plain|deit             {'base': 36.8, 'tta': 34.8}
+plain|swin             {'base': 37.4, 'tta': 36.0}
+TTA DONE soda

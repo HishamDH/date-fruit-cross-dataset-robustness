@@ -1,0 +1,20 @@
+.\code\common.py:172: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:219.)
+  out[i] = torch.from_numpy(np.asarray(Image.open(io.BytesIO(buf.getvalue())))).permute(2, 0, 1).to(x) / 255
+svm                seeds 1  acc 94.99 +/- 1.95  f1 94.86  errors/seed 83.0  mCA 42.03 +/- 0.87  seed means [94.99]
+resnet50           seeds 3  acc 97.25 +/- 1.07  f1 97.26  errors/seed 45.7  mCA 74.07 +/- 1.52  seed means [96.92, 96.99, 97.83]
+mobilenetv3        seeds 2  acc 97.41 +/- 1.11  f1 97.43  errors/seed 43.0  mCA 61.75 +/- 2.10  seed means [97.47, 97.35]
+efficientnetv2     seeds 2  acc 98.73 +/- 0.72  f1 98.70  errors/seed 21.0  mCA 78.12 +/- 2.23  seed means [98.79, 98.67]
+convnext           seeds 2  acc 98.43 +/- 1.15  f1 98.45  errors/seed 26.0  mCA 86.68 +/- 1.97  seed means [98.31, 98.55]
+deit               seeds 2  acc 97.77 +/- 0.97  f1 97.89  errors/seed 37.0  mCA 89.00 +/- 0.99  seed means [97.83, 97.71]
+swin               seeds 2  acc 98.61 +/- 0.62  f1 98.69  errors/seed 23.0  mCA 86.92 +/- 1.56  seed means [98.67, 98.55]
+resnet50_rigid     seeds 1  acc 97.35 +/- 0.62  f1 97.49  errors/seed 44.0  mCA 75.64 +/- 1.31  seed means [97.35]
+mobilenetv3_rigid  seeds 1  acc 98.37 +/- 0.97  f1 98.51  errors/seed 27.0  mCA 62.09 +/- 2.35  seed means [98.37]
+efficientnetv2_rigid seeds 1  acc 98.85 +/- 0.33  f1 98.82  errors/seed 19.0  mCA 79.33 +/- 3.48  seed means [98.85]
+convnext_rigid     seeds 1  acc 98.79 +/- 0.71  f1 98.80  errors/seed 20.0  mCA 90.18 +/- 0.59  seed means [98.79]
+deit_rigid         seeds 1  acc 98.31 +/- 0.89  f1 98.41  errors/seed 28.0  mCA 90.22 +/- 1.21  seed means [98.31]
+swin_rigid         seeds 1  acc 98.49 +/- 0.71  f1 98.49  errors/seed 25.0  mCA 87.58 +/- 1.47  seed means [98.49]
+convnext_noaug     seeds 1  acc 99.28 +/- 0.17  f1 99.28  errors/seed 12.0  mCA 91.02 +/- 1.89  seed means [99.28]
+convnext_scratch   seeds 1  acc 88.48 +/- 2.11  f1 88.56  errors/seed 191.0  mCA 65.51 +/- 1.49  seed means [88.48]
+best on clean images: efficientnetv2 | tests vs best: {'svm': 0.0, 'resnet50': 0.0, 'mobilenetv3': 0.0, 'convnext': 0.2406, 'deit': 0.0022, 'swin': 0.6257}
+external medina27 {'frame': {'spearman_clean': 0.3142857142857143, 'spearman_mca': 0.7714285714285715}, 'fruit': {'spearman_clean': 0.2571428571428572, 'spearman_mca': 0.7142857142857143}, 'plain': {'spearman_clean': 0.028571428571428574, 'spearman_mca': 0.6}} {'frame': {'resnet50': 50.8, 'mobilenetv3': 30.5, 'efficientnetv2': 32.9, 'convnext': 58.4, 'deit': 55.3, 'swin': 60.7}, 'fruit': {'resnet50': 52.4, 'mobilenetv3': 25.7, 'efficientnetv2': 31.0, 'convnext': 62.2, 'deit': 56.7, 'swin': 60.6}, 'plain': {'resnet50': 47.4, 'mobilenetv3': 43.5, 'efficientnetv2': 35.9, 'convnext': 58.4, 'deit': 53.8, 'swin': 56.2}}
+external soda {'frame': {'spearman_clean': 0.4285714285714286, 'spearman_mca': 1.0}, 'fruit': {'spearman_clean': 0.4285714285714286, 'spearman_mca': 1.0}, 'plain': {'spearman_clean': -0.028571428571428574, 'spearman_mca': 0.7714285714285715}} {'frame': {'resnet50': 31.3, 'mobilenetv3': 23.8, 'efficientnetv2': 32.3, 'convnext': 34.9, 'deit': 39.4, 'swin': 36.7}, 'fruit': {'resnet50': 31.2, 'mobilenetv3': 25.2, 'efficientnetv2': 33.2, 'convnext': 35.2, 'deit': 40.2, 'swin': 37.6}, 'plain': {'resnet50': 33.1, 'mobilenetv3': 34.0, 'efficientnetv2': 29.4, 'convnext': 34.9, 'deit': 39.4, 'swin': 36.9}}

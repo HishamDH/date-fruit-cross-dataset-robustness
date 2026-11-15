@@ -1,0 +1,269 @@
+
+>> train_multisource.py --model resnet50 --extra none --target medina27,soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=none -> medina27 seed 0 | val(main) 0.9699 | target frame 0.477 plain 0.547 | 172s
+MULTI resnet50 extra=none -> soda seed 0 | val(main) 0.9699 | target frame 0.336 plain 0.344 | 172s
+
+>> train_multisource.py --model mobilenetv3 --extra none --target medina27,soda --seed 0
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=none -> medina27 seed 0 | val(main) 0.9940 | target frame 0.364 plain 0.279 | 96s
+MULTI mobilenetv3 extra=none -> soda seed 0 | val(main) 0.9940 | target frame 0.250 plain 0.308 | 96s
+
+>> train_multisource.py --model efficientnetv2 --extra none --target medina27,soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI efficientnetv2 extra=none -> medina27 seed 0 | val(main) 0.9940 | target frame 0.341 plain 0.341 | 216s
+MULTI efficientnetv2 extra=none -> soda seed 0 | val(main) 0.9940 | target frame 0.272 plain 0.281 | 216s
+
+>> train_multisource.py --model convnext --extra none --target medina27,soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=none -> medina27 seed 0 | val(main) 0.9880 | target frame 0.601 plain 0.550 | 214s
+MULTI convnext extra=none -> soda seed 0 | val(main) 0.9880 | target frame 0.356 plain 0.339 | 214s
+
+>> train_multisource.py --model deit --extra none --target medina27,soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=none -> medina27 seed 0 | val(main) 0.9819 | target frame 0.527 plain 0.547 | 137s
+MULTI deit extra=none -> soda seed 0 | val(main) 0.9819 | target frame 0.361 plain 0.386 | 137s
+
+>> train_multisource.py --model swin --extra none --target medina27,soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI swin extra=none -> medina27 seed 0 | val(main) 0.9880 | target frame 0.632 plain 0.570 | 232s
+MULTI swin extra=none -> soda seed 0 | val(main) 0.9880 | target frame 0.297 plain 0.322 | 232s
+
+>> train_multisource.py --model resnet50 --extra soda --target medina27 --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=soda -> medina27 seed 0 | val(main) 0.9819 | target frame 0.570 plain 0.601 | 204s
+
+>> train_multisource.py --model mobilenetv3 --extra soda --target medina27 --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=soda -> medina27 seed 0 | val(main) 0.9699 | target frame 0.453 plain 0.508 | 114s
+
+>> train_multisource.py --model efficientnetv2 --extra soda --target medina27 --seed 0
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI efficientnetv2 extra=soda -> medina27 seed 0 | val(main) 0.9940 | target frame 0.500 plain 0.539 | 261s
+
+>> train_multisource.py --model convnext --extra soda --target medina27 --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=soda -> medina27 seed 0 | val(main) 0.9940 | target frame 0.760 plain 0.744 | 259s
+
+>> train_multisource.py --model deit --extra soda --target medina27 --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=soda -> medina27 seed 0 | val(main) 0.9819 | target frame 0.632 plain 0.593 | 169s
+
+>> train_multisource.py --model swin --extra soda --target medina27 --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI swin extra=soda -> medina27 seed 0 | val(main) 0.9880 | target frame 0.736 plain 0.713 | 286s
+
+>> train_multisource.py --model resnet50 --extra medina27 --target soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=medina27 -> soda seed 0 | val(main) 0.9819 | target frame 0.314 plain 0.344 | 194s
+
+>> train_multisource.py --model mobilenetv3 --extra medina27 --target soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=medina27 -> soda seed 0 | val(main) 0.9819 | target frame 0.228 plain 0.356 | 109s
+
+>> train_multisource.py --model efficientnetv2 --extra medina27 --target soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI efficientnetv2 extra=medina27 -> soda seed 0 | val(main) 0.9940 | target frame 0.281 plain 0.361 | 251s
+
+>> train_multisource.py --model convnext --extra medina27 --target soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=medina27 -> soda seed 0 | val(main) 0.9880 | target frame 0.403 plain 0.406 | 245s
+
+>> train_multisource.py --model deit --extra medina27 --target soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=medina27 -> soda seed 0 | val(main) 0.9940 | target frame 0.372 plain 0.381 | 161s
+
+>> train_multisource.py --model swin --extra medina27 --target soda --seed 0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI swin extra=medina27 -> soda seed 0 | val(main) 0.9940 | target frame 0.439 plain 0.469 | 270s
+
+>> train_multisource.py --model resnet50 --extra none --target medina27,soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=none -> medina27 seed 1 | val(main) 0.9819 | target frame 0.496 plain 0.461 | 166s
+MULTI resnet50 extra=none -> soda seed 1 | val(main) 0.9819 | target frame 0.331 plain 0.342 | 166s
+
+>> train_multisource.py --model mobilenetv3 --extra none --target medina27,soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=none -> medina27 seed 1 | val(main) 0.9940 | target frame 0.337 plain 0.395 | 97s
+MULTI mobilenetv3 extra=none -> soda seed 1 | val(main) 0.9940 | target frame 0.239 plain 0.386 | 97s
+
+>> train_multisource.py --model efficientnetv2 --extra none --target medina27,soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI efficientnetv2 extra=none -> medina27 seed 1 | val(main) 1.0000 | target frame 0.174 plain 0.302 | 217s
+MULTI efficientnetv2 extra=none -> soda seed 1 | val(main) 1.0000 | target frame 0.272 plain 0.264 | 217s
+
+>> train_multisource.py --model convnext --extra none --target medina27,soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=none -> medina27 seed 1 | val(main) 0.9880 | target frame 0.578 plain 0.547 | 214s
+MULTI convnext extra=none -> soda seed 1 | val(main) 0.9880 | target frame 0.361 plain 0.406 | 214s
+
+>> train_multisource.py --model deit --extra none --target medina27,soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=none -> medina27 seed 1 | val(main) 0.9880 | target frame 0.609 plain 0.488 | 138s
+MULTI deit extra=none -> soda seed 1 | val(main) 0.9880 | target frame 0.439 plain 0.411 | 138s
+
+>> train_multisource.py --model swin --extra none --target medina27,soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI swin extra=none -> medina27 seed 1 | val(main) 1.0000 | target frame 0.562 plain 0.519 | 232s
+MULTI swin extra=none -> soda seed 1 | val(main) 1.0000 | target frame 0.414 plain 0.386 | 232s
+
+>> train_multisource.py --model resnet50 --extra soda --target medina27 --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=soda -> medina27 seed 1 | val(main) 0.9880 | target frame 0.581 plain 0.531 | 204s
+
+>> train_multisource.py --model mobilenetv3 --extra soda --target medina27 --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=soda -> medina27 seed 1 | val(main) 0.9880 | target frame 0.329 plain 0.496 | 113s
+
+>> train_multisource.py --model efficientnetv2 --extra soda --target medina27 --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI efficientnetv2 extra=soda -> medina27 seed 1 | val(main) 0.9940 | target frame 0.523 plain 0.558 | 264s
+
+>> train_multisource.py --model convnext --extra soda --target medina27 --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=soda -> medina27 seed 1 | val(main) 0.9940 | target frame 0.709 plain 0.678 | 260s
+
+>> train_multisource.py --model deit --extra soda --target medina27 --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=soda -> medina27 seed 1 | val(main) 0.9759 | target frame 0.640 plain 0.671 | 170s
+
+>> train_multisource.py --model swin --extra soda --target medina27 --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI swin extra=soda -> medina27 seed 1 | val(main) 0.9880 | target frame 0.647 plain 0.705 | 286s
+
+>> train_multisource.py --model resnet50 --extra medina27 --target soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=medina27 -> soda seed 1 | val(main) 0.9940 | target frame 0.353 plain 0.408 | 194s
+
+>> train_multisource.py --model mobilenetv3 --extra medina27 --target soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=medina27 -> soda seed 1 | val(main) 0.9940 | target frame 0.217 plain 0.383 | 109s
+
+>> train_multisource.py --model efficientnetv2 --extra medina27 --target soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI efficientnetv2 extra=medina27 -> soda seed 1 | val(main) 1.0000 | target frame 0.317 plain 0.386 | 253s
+
+>> train_multisource.py --model convnext --extra medina27 --target soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=medina27 -> soda seed 1 | val(main) 0.9819 | target frame 0.406 plain 0.467 | 245s
+
+>> train_multisource.py --model deit --extra medina27 --target soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=medina27 -> soda seed 1 | val(main) 0.9880 | target frame 0.369 plain 0.353 | 160s
+
+>> train_multisource.py --model swin --extra medina27 --target soda --seed 1
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI swin extra=medina27 -> soda seed 1 | val(main) 0.9880 | target frame 0.403 plain 0.419 | 271s
+
+>> train_multisource.py --model resnet50 --extra none --target medina27,soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=none -> medina27 seed 2 | val(main) 0.9699 | target frame 0.391 plain 0.395 | 170s
+MULTI resnet50 extra=none -> soda seed 2 | val(main) 0.9699 | target frame 0.319 plain 0.367 | 170s
+
+>> train_multisource.py --model mobilenetv3 --extra none --target medina27,soda --seed 2
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=none -> medina27 seed 2 | val(main) 0.9940 | target frame 0.202 plain 0.457 | 94s
+MULTI mobilenetv3 extra=none -> soda seed 2 | val(main) 0.9940 | target frame 0.222 plain 0.344 | 94s
+
+>> train_multisource.py --model efficientnetv2 --extra none --target medina27,soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI efficientnetv2 extra=none -> medina27 seed 2 | val(main) 0.9940 | target frame 0.380 plain 0.415 | 232s
+MULTI efficientnetv2 extra=none -> soda seed 2 | val(main) 0.9940 | target frame 0.258 plain 0.269 | 232s
+
+>> train_multisource.py --model convnext --extra none --target medina27,soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=none -> medina27 seed 2 | val(main) 0.9880 | target frame 0.589 plain 0.461 | 216s
+MULTI convnext extra=none -> soda seed 2 | val(main) 0.9880 | target frame 0.325 plain 0.325 | 216s
+
+>> train_multisource.py --model deit --extra none --target medina27,soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=none -> medina27 seed 2 | val(main) 0.9819 | target frame 0.508 plain 0.574 | 145s
+MULTI deit extra=none -> soda seed 2 | val(main) 0.9819 | target frame 0.406 plain 0.414 | 145s
+
+>> train_multisource.py --model swin --extra none --target medina27,soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI swin extra=none -> medina27 seed 2 | val(main) 0.9940 | target frame 0.694 plain 0.562 | 242s
+MULTI swin extra=none -> soda seed 2 | val(main) 0.9940 | target frame 0.394 plain 0.389 | 242s
+
+>> train_multisource.py --model resnet50 --extra soda --target medina27 --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=soda -> medina27 seed 2 | val(main) 0.9699 | target frame 0.624 plain 0.585 | 240s
+
+>> train_multisource.py --model mobilenetv3 --extra soda --target medina27 --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=soda -> medina27 seed 2 | val(main) 0.9880 | target frame 0.271 plain 0.527 | 152s
+
+>> train_multisource.py --model efficientnetv2 --extra soda --target medina27 --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI efficientnetv2 extra=soda -> medina27 seed 2 | val(main) 1.0000 | target frame 0.504 plain 0.547 | 322s
+
+>> train_multisource.py --model convnext --extra soda --target medina27 --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=soda -> medina27 seed 2 | val(main) 0.9880 | target frame 0.640 plain 0.663 | 287s
+
+>> train_multisource.py --model deit --extra soda --target medina27 --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=soda -> medina27 seed 2 | val(main) 0.9880 | target frame 0.628 plain 0.667 | 204s
+
+>> train_multisource.py --model swin --extra soda --target medina27 --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI swin extra=soda -> medina27 seed 2 | val(main) 0.9940 | target frame 0.721 plain 0.702 | 317s
+
+>> train_multisource.py --model resnet50 --extra medina27 --target soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI resnet50 extra=medina27 -> soda seed 2 | val(main) 0.9819 | target frame 0.306 plain 0.406 | 214s
+
+>> train_multisource.py --model mobilenetv3 --extra medina27 --target soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI mobilenetv3 extra=medina27 -> soda seed 2 | val(main) 0.9880 | target frame 0.239 plain 0.325 | 162s
+
+>> train_multisource.py --model efficientnetv2 --extra medina27 --target soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI efficientnetv2 extra=medina27 -> soda seed 2 | val(main) 0.9940 | target frame 0.317 plain 0.383 | 331s
+
+>> train_multisource.py --model convnext --extra medina27 --target soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI convnext extra=medina27 -> soda seed 2 | val(main) 0.9880 | target frame 0.342 plain 0.389 | 393s
+
+>> train_multisource.py --model deit --extra medina27 --target soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+MULTI deit extra=medina27 -> soda seed 2 | val(main) 0.9880 | target frame 0.403 plain 0.411 | 178s
+
+>> train_multisource.py --model swin --extra medina27 --target soda --seed 2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+.\code\train_multisource.py:87: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+MULTI swin extra=medina27 -> soda seed 2 | val(main) 0.9880 | target frame 0.369 plain 0.422 | 273s
